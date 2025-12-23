@@ -36,6 +36,8 @@ from datasets import load_dataset
 dataset = load_dataset("leejamesssss/AuthorAwareDetectionBench", split="train")
 ```
 
+You can also manually download the data files [here](https://huggingface.co/datasets/leejamesssss/AuthorAwareDetectionBench).
+
 Note on Human Data: For the human-authored portion, please download the [ICNALE Corpus](http://language.sakura.ne.jp/icnale/) separately. You can then use the scripts provided in this repository to merge the human texts with our AI dataset.
 
 
