@@ -22,9 +22,7 @@
 ## Overview
 **AuthorAwareDetection** is the official repository for the ACL 2025 paper *"[Who Writes What: Unveiling the Impact of Author Roles on AI-generated Text Detection](https://aclanthology.org/2025.acl-long.1292.pdf)"*.
 
-The current AI text detection field largely overlooks the influence of author characteristics. **AuthorAwareDetectionBench** is a benchmark designed to investigate how sociolinguistic attributes, including Gender, CEFR Proficiency, Academic Field, and Language Environment, impact the performance of AI text detectors.
-
-We employ 12 diverse LLMs to generate parallel texts that mirror the demographic profiles of human authors from the ICNALE corpus, creating a controlled environment for bias analysis.
+The current AI text detection field largely overlooks the influence of author characteristics. **AuthorAwareDetectionBench** is a benchmark designed to investigate how sociolinguistic attributes, including Gender, CEFR Proficiency, Academic Field, and Language Environment, impact the performance of AI text detectors. We employ 12 diverse LLMs to generate parallel texts that mirror the demographic profiles of human authors from the ICNALE corpus, creating a controlled environment for bias analysis.
 
 
 ## Data Access
