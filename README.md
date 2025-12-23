@@ -28,6 +28,18 @@ This project introduces a novel **Persona-based Generation Framework**, utilizin
 
 
 
+## Data Access
+We host the AI-generated portion of our benchmark on Hugging Face. To load our data, run:
+
+```python
+from datasets import load_dataset
+
+dataset = load_dataset("leejamesssss/AuthorAwareDetectionBench", split="train")
+```
+
+Note on Human Data: For the human-authored portion, please download the [ICNALE Corpus](http://language.sakura.ne.jp/icnale/) separately. You can then use the scripts provided in this repository to merge the human texts with our AI dataset.
+
+
 ## 📜 License
 
 This dataset is licensed under **CC BY-NC 4.0** (AI text & metadata) and **MIT** (Code).
