@@ -1,6 +1,6 @@
 <div align="center">
 
-# Who Writes What: Unveiling the Impact of Author Roles on AI-generated Text Detection
+# Who Writes What: Unveiling the Impact of Author Roles on AI-generated Text Detection [ACL 2025]
 
 <p align="center">
   <a href="https://aclanthology.org/2025.acl-long.1292.pdf">
@@ -19,13 +19,12 @@
 </div>
 
 
-## 📢 Overview
-**AuthorAwareDetection** is the official repository for the ACL 2025 paper *"Who Writes What: Unveiling the Impact of Author Roles on AI-generated Text Detection"*.
+## Overview
+**AuthorAwareDetection** is the official repository for the ACL 2025 paper *"[Who Writes What: Unveiling the Impact of Author Roles on AI-generated Text Detection](https://aclanthology.org/2025.acl-long.1292.pdf)"*.
 
-Current AI text detectors largely overlook the influence of author characteristics. We introduce **AuthorAwareDetectionBench**, a comprehensive benchmark designed to investigate how sociolinguistic attributes: **Gender**, **CEFR Proficiency**, **Academic Field**, and **Language Environment**, impact the performance of state-of-the-art detectors.
+The current AI text detection field largely **overlooks** the influence of author characteristics. **AuthorAwareDetectionBench** is a benchmark designed to investigate how sociolinguistic attributes, including Gender, CEFR Proficiency, Academic Field, and Language Environment, impact the performance of AI text detectors.
 
-This project introduces a novel **Persona-based Generation Framework**, utilizing **12 diverse LLMs** to generate parallel texts that mirror the demographic profiles of human authors from the ICNALE corpus.
-
+We employ 12 diverse LLMs to generate parallel texts that mirror the demographic profiles of human authors from the ICNALE corpus, creating a controlled environment for bias analysis.
 
 
 ## Data Access
@@ -40,7 +39,7 @@ dataset = load_dataset("leejamesssss/AuthorAwareDetectionBench", split="train")
 Note on Human Data: For the human-authored portion, please download the [ICNALE Corpus](http://language.sakura.ne.jp/icnale/) separately. You can then use the scripts provided in this repository to merge the human texts with our AI dataset.
 
 
-## 📜 License
+## License
 
 This dataset is licensed under **CC BY-NC 4.0** (AI text & metadata) and **MIT** (Code).
 
