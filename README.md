@@ -28,17 +28,49 @@ We employ 12 diverse LLMs to generate parallel texts that mirror the demographic
 
 
 ## Data Access
-We host the AI-generated portion of our benchmark on Hugging Face. To load our data, run:
+
+### 1. AI-Generated Data
+
+We host the **AI-generated portion** of the benchmark directly on Hugging Face. You can load it easily via:
 
 ```python
 from datasets import load_dataset
 
+# Loads only the AI-generated samples
 dataset = load_dataset("leejamesssss/AuthorAwareDetectionBench", split="train")
 ```
 
-You can also manually download the data files [here](https://huggingface.co/datasets/leejamesssss/AuthorAwareDetectionBench/tree/main).
+### 2. Full Benchmark
 
-Note on Human Data: For the human-authored portion, please download the [ICNALE Corpus](http://language.sakura.ne.jp/icnale/) separately. You can then use the scripts provided in this repository to merge the human texts with our AI dataset.
+Due to the **ICNALE Terms of Use**, we cannot distribute the original human texts. To reproduce the full benchmark, please follow these steps:
+
+#### Step 1: Prepare the Data
+
+1. **Download Human Data:** Obtain the **[ICNALE Written English Corpus](http://language.sakura.ne.jp/icnale/download.html)** (specifically the `WE_0_Unclassified_Unmerged` folder) from the official website. 
+
+2. **Download AI Data:** Download the `ai_generated_dataset.jsonl` from the [Files and versions](https://huggingface.co/datasets/leejamesssss/AuthorAwareDetectionBench/tree/main) tab of this repository.
+
+3. **Clone Our Repository:** Get the processing scripts and metadata:
+
+   ```bash
+   git clone https://github.com/leejamesss/AuthorAwareDetection.git
+   cd AuthorAwareDetection
+   ```
+
+#### Step 2: Merge the Datasets
+
+Use the provided script to align human texts with metadata and merge them with our AI dataset:
+
+```bash
+python scripts/merge_data.py \
+  --human_input_dir "/path/to/your/ICNALE/WE_0_Unclassified_Unmerged" \
+  --metadata_file "data/metadata/human_metadata.csv" \
+  --ai_file "/path/to/downloaded/ai_generated_dataset.jsonl" \
+  --output "authoraware_benchmark.jsonl"
+```
+
+> **Note:** The `human_metadata.csv` is included in our GitHub repository. Ensure you point to the correct paths for your downloaded files.
+
 
 
 ## License
