@@ -5,7 +5,7 @@ This script processes raw text files from the ICNALE corpus, augments them with 
 loads AI-generated data, and merges everything into a single JSONL format dataset.
 
 Usage:
-    python merge_data.py --human_input_dir "../data/human_data/ICNALE_WE_2.6/WE_0_Unclassified_Unmerged" --metadata_file "../data/metadata/human_metadata.csv" --ai_file "../data/ai_data/ai_generated_dataset.jsonl" --output "../data/authorawarebench.jsonl"
+    python data/scripts/merge_data.py --human_input_dir "data/human_data/ICNALE_WE_2.6/WE_0_Unclassified_Unmerged" --metadata_file "data/metadata/human_metadata.csv" --ai_file "data/ai_data/ai_generated_dataset.jsonl" --output "data/authorawarebench.jsonl"
 """
 
 import json
@@ -147,25 +147,25 @@ def main():
     parser.add_argument(
         "--human_input_dir",
         type=str,
-        default="../data/human_data/ICNALE_WE_2.6/WE_0_Unclassified_Unmerged",
+        default="data/human_data/ICNALE_WE_2.6/WE_0_Unclassified_Unmerged",
         help="Path to the folder containing raw human text files."
     )
     parser.add_argument(
         "--metadata_file",
         type=str,
-        default="../data/metadata/human_metadata.csv",
+        default="data/metadata/human_metadata.csv",
         help="Path to the CSV file containing human metadata and valid codes."
     )
     parser.add_argument(
         "--ai_file",
         type=str,
-        default="../data/ai_data/ai_generated_dataset.jsonl",
+        default="data/ai_data/ai_generated_dataset.jsonl",
         help="Path to the JSONL file containing AI-generated data."
     )
     parser.add_argument(
         "--output",
         type=str,
-        default="../data/authorawarebench.jsonl",
+        default="data/authorawarebench.jsonl",
         help="Path for the output merged JSONL file."
     )
 
