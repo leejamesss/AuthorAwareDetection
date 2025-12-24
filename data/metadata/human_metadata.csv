@@ -1,0 +1,2570 @@
+human_code,cefr,country,sex,genre,language_env
+WE_CHN_001,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_002,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_003,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_004,B1_2,CHN,F,Sciences & Technology,EFL
+WE_CHN_005,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_006,B1_2,CHN,F,Sciences & Technology,EFL
+WE_CHN_007,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_008,B1_2,CHN,F,Sciences & Technology,EFL
+WE_CHN_009,B1_2,CHN,F,Sciences & Technology,EFL
+WE_CHN_010,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_011,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_012,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_013,B1_2,CHN,F,Social Sciences,EFL
+WE_CHN_014,B1_2,CHN,F,Social Sciences,EFL
+WE_CHN_015,B1_2,CHN,F,Social Sciences,EFL
+WE_CHN_016,B1_2,CHN,F,Social Sciences,EFL
+WE_CHN_017,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_018,B1_2,CHN,F,Social Sciences,EFL
+WE_CHN_019,B1_2,CHN,F,Social Sciences,EFL
+WE_CHN_020,B1_1,CHN,F,Humanities,EFL
+WE_CHN_021,A2_0,CHN,F,Humanities,EFL
+WE_CHN_022,A2_0,CHN,F,Humanities,EFL
+WE_CHN_023,B1_1,CHN,F,Humanities,EFL
+WE_CHN_024,A2_0,CHN,F,Humanities,EFL
+WE_CHN_025,B1_1,CHN,F,Humanities,EFL
+WE_CHN_026,A2_0,CHN,F,Humanities,EFL
+WE_CHN_027,B1_1,CHN,F,Humanities,EFL
+WE_CHN_028,B2_0,CHN,F,Sciences & Technology,EFL
+WE_CHN_029,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_030,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_031,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_032,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_033,B1_2,CHN,F,Sciences & Technology,EFL
+WE_CHN_034,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_035,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_036,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_037,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_038,A2_0,CHN,F,Social Sciences,EFL
+WE_CHN_039,A2_0,CHN,F,Social Sciences,EFL
+WE_CHN_040,B1_1,CHN,M,Social Sciences,EFL
+WE_CHN_041,A2_0,CHN,F,Social Sciences,EFL
+WE_CHN_042,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_043,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_044,A2_0,CHN,F,Social Sciences,EFL
+WE_CHN_045,A2_0,CHN,M,Social Sciences,EFL
+WE_CHN_046,A2_0,CHN,F,Social Sciences,EFL
+WE_CHN_047,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_048,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_049,A2_0,CHN,M,Social Sciences,EFL
+WE_CHN_050,A2_0,CHN,M,Social Sciences,EFL
+WE_CHN_051,B1_2,CHN,F,Social Sciences,EFL
+WE_CHN_052,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_053,B1_1,CHN,M,Social Sciences,EFL
+WE_CHN_054,B1_1,CHN,M,Social Sciences,EFL
+WE_CHN_055,A2_0,CHN,F,Social Sciences,EFL
+WE_CHN_056,B1_1,CHN,M,Social Sciences,EFL
+WE_CHN_057,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_058,A2_0,CHN,F,Social Sciences,EFL
+WE_CHN_059,A2_0,CHN,F,Social Sciences,EFL
+WE_CHN_060,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_061,A2_0,CHN,M,Social Sciences,EFL
+WE_CHN_062,B1_1,CHN,M,Social Sciences,EFL
+WE_CHN_063,B1_1,CHN,M,Social Sciences,EFL
+WE_CHN_064,A2_0,CHN,F,Social Sciences,EFL
+WE_CHN_065,A2_0,CHN,M,Social Sciences,EFL
+WE_CHN_066,A2_0,CHN,F,Social Sciences,EFL
+WE_CHN_067,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_068,B1_1,CHN,M,Social Sciences,EFL
+WE_CHN_069,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_070,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_071,A2_0,CHN,M,Social Sciences,EFL
+WE_CHN_072,A2_0,CHN,F,Social Sciences,EFL
+WE_CHN_073,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_074,B1_2,CHN,F,Social Sciences,EFL
+WE_CHN_075,B1_2,CHN,F,Social Sciences,EFL
+WE_CHN_076,B1_1,CHN,M,Social Sciences,EFL
+WE_CHN_077,B1_1,CHN,M,Social Sciences,EFL
+WE_CHN_078,B1_2,CHN,F,Social Sciences,EFL
+WE_CHN_079,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_080,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_081,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_082,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_083,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_084,B1_2,CHN,F,Social Sciences,EFL
+WE_CHN_085,B1_2,CHN,F,Social Sciences,EFL
+WE_CHN_086,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_087,A2_0,CHN,F,Social Sciences,EFL
+WE_CHN_088,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_089,B1_2,CHN,F,Social Sciences,EFL
+WE_CHN_090,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_091,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_092,A2_0,CHN,M,Social Sciences,EFL
+WE_CHN_093,B1_1,CHN,M,Social Sciences,EFL
+WE_CHN_094,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_095,B1_1,CHN,M,Social Sciences,EFL
+WE_CHN_096,B1_1,CHN,M,Social Sciences,EFL
+WE_CHN_097,A2_0,CHN,F,Social Sciences,EFL
+WE_CHN_098,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_099,A2_0,CHN,M,Social Sciences,EFL
+WE_CHN_100,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_101,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_102,B1_1,CHN,M,Social Sciences,EFL
+WE_CHN_103,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_104,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_105,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_106,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_107,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_108,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_109,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_110,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_111,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_112,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_113,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_114,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_115,A2_0,CHN,M,Sciences & Technology,EFL
+WE_CHN_116,A2_0,CHN,M,Sciences & Technology,EFL
+WE_CHN_117,A2_0,CHN,F,Sciences & Technology,EFL
+WE_CHN_118,B1_2,CHN,F,Sciences & Technology,EFL
+WE_CHN_119,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_120,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_121,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_122,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_123,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_124,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_125,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_126,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_127,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_128,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_129,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_130,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_131,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_132,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_133,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_134,A2_0,CHN,F,Social Sciences,EFL
+WE_CHN_135,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_136,A2_0,CHN,F,Social Sciences,EFL
+WE_CHN_137,B1_2,CHN,F,Social Sciences,EFL
+WE_CHN_138,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_139,A2_0,CHN,F,Social Sciences,EFL
+WE_CHN_140,A2_0,CHN,F,Social Sciences,EFL
+WE_CHN_141,B1_2,CHN,F,Social Sciences,EFL
+WE_CHN_142,B1_1,CHN,M,Social Sciences,EFL
+WE_CHN_143,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_144,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_145,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_146,A2_0,CHN,F,Social Sciences,EFL
+WE_CHN_147,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_148,B1_1,CHN,M,Humanities,EFL
+WE_CHN_149,B1_1,CHN,F,Humanities,EFL
+WE_CHN_150,B1_1,CHN,F,Humanities,EFL
+WE_CHN_151,B1_2,CHN,M,Humanities,EFL
+WE_CHN_152,B1_2,CHN,F,Humanities,EFL
+WE_CHN_153,B1_1,CHN,F,Humanities,EFL
+WE_CHN_154,B1_1,CHN,F,Humanities,EFL
+WE_CHN_155,B1_1,CHN,F,Humanities,EFL
+WE_CHN_156,B1_1,CHN,F,Humanities,EFL
+WE_CHN_157,B1_1,CHN,F,Humanities,EFL
+WE_CHN_158,B1_2,CHN,F,Humanities,EFL
+WE_CHN_159,B1_1,CHN,F,Humanities,EFL
+WE_CHN_160,B2_0,CHN,M,Humanities,EFL
+WE_CHN_161,B1_1,CHN,F,Humanities,EFL
+WE_CHN_162,B1_1,CHN,F,Humanities,EFL
+WE_CHN_163,B2_0,CHN,F,Humanities,EFL
+WE_CHN_164,B1_1,CHN,F,Humanities,EFL
+WE_CHN_165,B1_1,CHN,F,Humanities,EFL
+WE_CHN_166,B1_1,CHN,F,Humanities,EFL
+WE_CHN_167,B1_1,CHN,F,Humanities,EFL
+WE_CHN_168,B1_1,CHN,F,Humanities,EFL
+WE_CHN_169,B1_2,CHN,F,Humanities,EFL
+WE_CHN_170,B1_2,CHN,F,Humanities,EFL
+WE_CHN_171,B1_1,CHN,F,Humanities,EFL
+WE_CHN_172,B2_0,CHN,F,Humanities,EFL
+WE_CHN_173,B1_1,CHN,F,Humanities,EFL
+WE_CHN_174,B1_1,CHN,F,Humanities,EFL
+WE_CHN_175,B1_1,CHN,F,Humanities,EFL
+WE_CHN_176,B1_1,CHN,F,Humanities,EFL
+WE_CHN_177,B1_2,CHN,F,Humanities,EFL
+WE_CHN_178,B1_1,CHN,F,Humanities,EFL
+WE_CHN_179,B1_1,CHN,F,Humanities,EFL
+WE_CHN_180,B1_2,CHN,F,Humanities,EFL
+WE_CHN_181,B1_1,CHN,M,Humanities,EFL
+WE_CHN_182,B2_0,CHN,F,Humanities,EFL
+WE_CHN_183,B1_2,CHN,F,Humanities,EFL
+WE_CHN_184,A2_0,CHN,F,Humanities,EFL
+WE_CHN_185,B1_1,CHN,F,Humanities,EFL
+WE_CHN_186,B1_1,CHN,F,Humanities,EFL
+WE_CHN_187,B1_1,CHN,F,Humanities,EFL
+WE_CHN_188,A2_0,CHN,F,Humanities,EFL
+WE_CHN_189,B1_1,CHN,F,Humanities,EFL
+WE_CHN_190,B1_1,CHN,F,Humanities,EFL
+WE_CHN_191,B1_1,CHN,M,Humanities,EFL
+WE_CHN_192,B1_1,CHN,F,Humanities,EFL
+WE_CHN_193,B1_1,CHN,F,Humanities,EFL
+WE_CHN_194,B1_1,CHN,M,Humanities,EFL
+WE_CHN_195,B1_1,CHN,F,Humanities,EFL
+WE_CHN_196,B1_1,CHN,F,Humanities,EFL
+WE_CHN_197,B1_1,CHN,M,Humanities,EFL
+WE_CHN_198,A2_0,CHN,M,Humanities,EFL
+WE_CHN_199,B1_1,CHN,M,Humanities,EFL
+WE_CHN_200,B1_1,CHN,F,Humanities,EFL
+WE_CHN_201,B1_1,CHN,M,Humanities,EFL
+WE_CHN_202,A2_0,CHN,M,Humanities,EFL
+WE_CHN_203,B1_1,CHN,M,Humanities,EFL
+WE_CHN_204,B1_1,CHN,F,Humanities,EFL
+WE_CHN_205,B1_1,CHN,F,Humanities,EFL
+WE_CHN_206,B1_1,CHN,F,Humanities,EFL
+WE_CHN_207,B1_1,CHN,F,Humanities,EFL
+WE_CHN_208,B1_1,CHN,F,Humanities,EFL
+WE_CHN_209,B1_1,CHN,M,Humanities,EFL
+WE_CHN_210,A2_0,CHN,M,Humanities,EFL
+WE_CHN_211,B1_1,CHN,M,Humanities,EFL
+WE_CHN_212,B1_1,CHN,F,Humanities,EFL
+WE_CHN_213,B1_1,CHN,F,Humanities,EFL
+WE_CHN_214,B1_1,CHN,F,Humanities,EFL
+WE_CHN_215,B1_1,CHN,F,Humanities,EFL
+WE_CHN_216,A2_0,CHN,M,Humanities,EFL
+WE_CHN_217,B1_2,CHN,F,Humanities,EFL
+WE_CHN_218,B1_2,CHN,M,Humanities,EFL
+WE_CHN_219,B1_1,CHN,M,Humanities,EFL
+WE_CHN_220,B1_2,CHN,F,Sciences & Technology,EFL
+WE_CHN_221,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_222,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_223,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_224,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_225,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_226,B1_2,CHN,F,Sciences & Technology,EFL
+WE_CHN_227,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_228,B2_0,CHN,F,Social Sciences,EFL
+WE_CHN_229,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_230,B1_2,CHN,F,Humanities,EFL
+WE_CHN_231,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_232,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_233,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_234,B1_2,CHN,F,Sciences & Technology,EFL
+WE_CHN_235,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_236,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_237,A2_0,CHN,M,Sciences & Technology,EFL
+WE_CHN_238,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_239,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_240,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_241,B1_2,CHN,F,Sciences & Technology,EFL
+WE_CHN_242,B2_0,CHN,M,Sciences & Technology,EFL
+WE_CHN_243,B1_1,CHN,F,Life Sciences,EFL
+WE_CHN_245,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_246,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_247,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_248,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_249,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_250,B1_2,CHN,F,Sciences & Technology,EFL
+WE_CHN_251,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_252,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_253,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_254,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_255,B1_1,CHN,M,Social Sciences,EFL
+WE_CHN_256,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_257,B1_2,CHN,F,Social Sciences,EFL
+WE_CHN_258,B1_2,CHN,F,Sciences & Technology,EFL
+WE_CHN_259,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_260,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_261,B1_2,CHN,F,Sciences & Technology,EFL
+WE_CHN_262,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_263,B1_2,CHN,F,Sciences & Technology,EFL
+WE_CHN_264,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_265,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_266,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_267,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_268,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_269,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_270,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_271,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_272,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_273,B1_2,CHN,F,Humanities,EFL
+WE_CHN_274,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_275,B2_0,CHN,F,Social Sciences,EFL
+WE_CHN_277,B2_0,CHN,M,Sciences & Technology,EFL
+WE_CHN_278,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_279,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_280,B1_2,CHN,F,Humanities,EFL
+WE_CHN_281,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_282,A2_0,CHN,F,Sciences & Technology,EFL
+WE_CHN_283,B1_2,CHN,F,Social Sciences,EFL
+WE_CHN_284,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_285,B1_1,CHN,F,Humanities,EFL
+WE_CHN_286,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_287,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_288,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_289,A2_0,CHN,M,Sciences & Technology,EFL
+WE_CHN_290,B1_2,CHN,F,Life Sciences,EFL
+WE_CHN_291,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_292,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_293,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_294,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_295,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_296,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_297,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_298,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_299,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_301,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_303,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_304,B1_2,CHN,F,Sciences & Technology,EFL
+WE_CHN_305,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_306,B1_2,CHN,F,Sciences & Technology,EFL
+WE_CHN_307,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_308,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_309,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_310,A2_0,CHN,M,Sciences & Technology,EFL
+WE_CHN_312,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_313,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_314,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_315,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_316,B2_0,CHN,F,Social Sciences,EFL
+WE_CHN_317,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_318,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_319,A2_0,CHN,M,Sciences & Technology,EFL
+WE_CHN_320,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_322,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_323,A2_0,CHN,M,Sciences & Technology,EFL
+WE_CHN_324,B1_2,CHN,F,Social Sciences,EFL
+WE_CHN_325,B1_2,CHN,F,Sciences & Technology,EFL
+WE_CHN_326,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_328,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_329,B2_0,CHN,M,Sciences & Technology,EFL
+WE_CHN_330,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_331,A2_0,CHN,M,Sciences & Technology,EFL
+WE_CHN_332,B1_1,CHN,M,Life Sciences,EFL
+WE_CHN_333,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_334,B2_0,CHN,M,Social Sciences,EFL
+WE_CHN_335,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_336,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_337,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_338,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_339,B1_1,CHN,F,Social Sciences,EFL
+WE_CHN_340,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_341,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_342,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_343,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_344,B1_2,CHN,F,Sciences & Technology,EFL
+WE_CHN_345,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_346,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_347,B1_2,CHN,F,Social Sciences,EFL
+WE_CHN_348,B1_2,CHN,F,Sciences & Technology,EFL
+WE_CHN_349,B1_2,CHN,M,Social Sciences,EFL
+WE_CHN_350,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_351,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_352,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_353,B2_0,CHN,M,Sciences & Technology,EFL
+WE_CHN_354,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_355,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_356,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_357,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_358,B1_1,CHN,F,Life Sciences,EFL
+WE_CHN_359,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_360,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_361,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_362,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_363,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_364,B1_2,CHN,F,Social Sciences,EFL
+WE_CHN_365,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_366,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_367,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_369,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_370,B1_2,CHN,F,Humanities,EFL
+WE_CHN_371,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_372,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_373,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_374,B1_2,CHN,F,Sciences & Technology,EFL
+WE_CHN_375,A2_0,CHN,M,Sciences & Technology,EFL
+WE_CHN_376,B1_1,CHN,F,Life Sciences,EFL
+WE_CHN_377,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_378,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_379,B1_2,CHN,F,Sciences & Technology,EFL
+WE_CHN_380,B1_2,CHN,M,Humanities,EFL
+WE_CHN_381,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_382,B1_2,CHN,F,Sciences & Technology,EFL
+WE_CHN_383,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_384,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_385,B1_2,CHN,F,Sciences & Technology,EFL
+WE_CHN_387,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_389,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_390,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_391,A2_0,CHN,M,Sciences & Technology,EFL
+WE_CHN_392,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_393,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_394,B1_2,CHN,M,Sciences & Technology,EFL
+WE_CHN_395,B1_1,CHN,F,Sciences & Technology,EFL
+WE_CHN_396,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_397,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_398,B1_2,CHN,F,Sciences & Technology,EFL
+WE_CHN_399,B1_1,CHN,M,Sciences & Technology,EFL
+WE_CHN_400,B1_1,CHN,M,Sciences & Technology,EFL
+WE_ENS_006,XX_0,ENS_USA,F,Social Sciences,NS
+WE_ENS_007,XX_0,ENS_USA,F,Sciences & Technology,NS
+WE_ENS_008,XX_0,ENS_USA,F,Social Sciences,NS
+WE_ENS_009,XX_0,ENS_USA,F,Sciences & Technology,NS
+WE_ENS_010,XX_0,ENS_USA,M,Humanities,NS
+WE_ENS_011,XX_0,ENS_USA,F,Sciences & Technology,NS
+WE_ENS_012,XX_0,ENS_USA,M,Humanities,NS
+WE_ENS_013,XX_0,ENS_USA,M,Social Sciences,NS
+WE_ENS_014,XX_0,ENS_USA,F,Social Sciences,NS
+WE_ENS_015,XX_0,ENS_USA,F,Sciences & Technology,NS
+WE_ENS_016,XX_0,ENS_USA,M,Sciences & Technology,NS
+WE_ENS_017,XX_0,ENS_USA,F,Sciences & Technology,NS
+WE_ENS_018,XX_0,ENS_USA,M,Sciences & Technology,NS
+WE_ENS_019,XX_0,ENS_USA,F,Humanities,NS
+WE_ENS_020,XX_0,ENS_USA,F,Humanities,NS
+WE_ENS_021,XX_0,ENS_USA,M,Humanities,NS
+WE_ENS_022,XX_0,ENS_USA,F,Humanities,NS
+WE_ENS_023,XX_0,ENS_USA,F,Humanities,NS
+WE_ENS_024,XX_0,ENS_USA,M,Humanities,NS
+WE_ENS_025,XX_0,ENS_USA,F,Humanities,NS
+WE_ENS_026,XX_0,ENS_USA,F,Humanities,NS
+WE_ENS_027,XX_0,ENS_USA,F,Humanities,NS
+WE_ENS_028,XX_0,ENS_USA,M,Humanities,NS
+WE_ENS_029,XX_0,ENS_USA,M,Sciences & Technology,NS
+WE_ENS_030,XX_0,ENS_USA,F,Sciences & Technology,NS
+WE_ENS_031,XX_0,ENS_USA,F,Sciences & Technology,NS
+WE_ENS_032,XX_0,ENS_USA,F,Life Sciences,NS
+WE_ENS_033,XX_0,ENS_USA,M,Life Sciences,NS
+WE_ENS_034,XX_0,ENS_USA,M,Sciences & Technology,NS
+WE_ENS_035,XX_0,ENS_USA,M,Sciences & Technology,NS
+WE_ENS_036,XX_0,ENS_USA,F,Sciences & Technology,NS
+WE_ENS_037,XX_0,ENS_USA,F,Sciences & Technology,NS
+WE_ENS_038,XX_0,ENS_USA,F,Sciences & Technology,NS
+WE_ENS_039,XX_0,ENS_USA,F,Sciences & Technology,NS
+WE_ENS_040,XX_0,ENS_USA,F,Humanities,NS
+WE_ENS_041,XX_0,ENS_USA,F,Humanities,NS
+WE_ENS_042,XX_0,ENS_USA,M,Humanities,NS
+WE_ENS_043,XX_0,ENS_AUS,F,Social Sciences,NS
+WE_ENS_044,XX_0,ENS_USA,F,Social Sciences,NS
+WE_ENS_045,XX_0,ENS_USA,F,Social Sciences,NS
+WE_ENS_046,XX_0,ENS_USA,F,Social Sciences,NS
+WE_ENS_047,XX_0,ENS_USA,F,Social Sciences,NS
+WE_ENS_048,XX_0,ENS_USA,M,Humanities,NS
+WE_ENS_049,XX_0,ENS_USA,M,Social Sciences,NS
+WE_ENS_050,XX_0,ENS_USA,F,Social Sciences,NS
+WE_ENS_051,XX_0,ENS_USA,M,Social Sciences,NS
+WE_ENS_052,XX_0,ENS_USA,M,Sciences & Technology,NS
+WE_ENS_053,XX_0,ENS_USA,F,Life Sciences,NS
+WE_ENS_054,XX_0,ENS_USA,M,Social Sciences,NS
+WE_ENS_055,XX_0,ENS_USA,M,Sciences & Technology,NS
+WE_ENS_056,XX_0,ENS_USA,F,Life Sciences,NS
+WE_ENS_057,XX_0,ENS_USA,F,Humanities,NS
+WE_ENS_058,XX_0,ENS_USA,M,Humanities,NS
+WE_ENS_059,XX_0,ENS_USA,M,Humanities,NS
+WE_ENS_060,XX_0,ENS_USA,M,Humanities,NS
+WE_ENS_061,XX_0,ENS_USA,M,Sciences & Technology,NS
+WE_ENS_062,XX_0,ENS_USA,F,Sciences & Technology,NS
+WE_ENS_063,XX_0,ENS_USA,M,Social Sciences,NS
+WE_ENS_064,XX_0,ENS_USA,M,Social Sciences,NS
+WE_ENS_065,XX_0,ENS_USA,F,Social Sciences,NS
+WE_ENS_066,XX_0,ENS_USA,M,Sciences & Technology,NS
+WE_ENS_067,XX_0,ENS_USA,M,Sciences & Technology,NS
+WE_ENS_068,XX_0,ENS_USA,M,Sciences & Technology,NS
+WE_ENS_069,XX_0,ENS_USA,F,Life Sciences,NS
+WE_ENS_070,XX_0,ENS_USA,M,Life Sciences,NS
+WE_ENS_071,XX_0,ENS_USA,M,Life Sciences,NS
+WE_ENS_072,XX_0,ENS_USA,F,Sciences & Technology,NS
+WE_ENS_073,XX_0,ENS_USA,M,Social Sciences,NS
+WE_ENS_074,XX_0,ENS_USA,M,Social Sciences,NS
+WE_ENS_075,XX_0,ENS_USA,M,Sciences & Technology,NS
+WE_ENS_076,XX_0,ENS_USA,F,Sciences & Technology,NS
+WE_ENS_077,XX_0,ENS_USA,M,Humanities,NS
+WE_ENS_078,XX_0,ENS_USA,F,Sciences & Technology,NS
+WE_HKG_001,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_002,B1_2,HKG,F,Sciences & Technology,ESL
+WE_HKG_003,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_004,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_005,B1_1,HKG,M,Sciences & Technology,ESL
+WE_HKG_006,B1_1,HKG,M,Sciences & Technology,ESL
+WE_HKG_007,B2_0,HKG,M,Sciences & Technology,ESL
+WE_HKG_008,B2_0,HKG,M,Sciences & Technology,ESL
+WE_HKG_009,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_010,B1_2,HKG,F,Sciences & Technology,ESL
+WE_HKG_011,B1_2,HKG,F,Sciences & Technology,ESL
+WE_HKG_012,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_013,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_014,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_015,B2_0,HKG,M,Sciences & Technology,ESL
+WE_HKG_016,B1_1,HKG,M,Sciences & Technology,ESL
+WE_HKG_017,B1_2,HKG,F,Sciences & Technology,ESL
+WE_HKG_018,B1_2,HKG,F,Sciences & Technology,ESL
+WE_HKG_019,B1_2,HKG,F,Sciences & Technology,ESL
+WE_HKG_020,B1_1,HKG,M,Sciences & Technology,ESL
+WE_HKG_021,B1_1,HKG,M,Sciences & Technology,ESL
+WE_HKG_022,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_023,B2_0,HKG,M,Sciences & Technology,ESL
+WE_HKG_024,B1_2,HKG,F,Sciences & Technology,ESL
+WE_HKG_025,B1_1,HKG,F,Sciences & Technology,ESL
+WE_HKG_026,B1_2,HKG,F,Sciences & Technology,ESL
+WE_HKG_027,B2_0,HKG,M,Sciences & Technology,ESL
+WE_HKG_028,B1_1,HKG,M,Sciences & Technology,ESL
+WE_HKG_029,B2_0,HKG,M,Sciences & Technology,ESL
+WE_HKG_030,B1_1,HKG,M,Sciences & Technology,ESL
+WE_HKG_031,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_032,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_033,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_034,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_035,B1_1,HKG,M,Sciences & Technology,ESL
+WE_HKG_036,B1_1,HKG,M,Sciences & Technology,ESL
+WE_HKG_037,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_038,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_039,B1_2,HKG,F,Sciences & Technology,ESL
+WE_HKG_040,B1_2,HKG,F,Sciences & Technology,ESL
+WE_HKG_041,B1_2,HKG,F,Sciences & Technology,ESL
+WE_HKG_042,B1_1,HKG,M,Sciences & Technology,ESL
+WE_HKG_043,B1_1,HKG,M,Sciences & Technology,ESL
+WE_HKG_044,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_045,B2_0,HKG,M,Sciences & Technology,ESL
+WE_HKG_046,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_047,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_048,B1_1,HKG,M,Sciences & Technology,ESL
+WE_HKG_049,B1_2,HKG,F,Sciences & Technology,ESL
+WE_HKG_050,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_051,B1_2,HKG,F,Sciences & Technology,ESL
+WE_HKG_052,B1_2,HKG,F,Sciences & Technology,ESL
+WE_HKG_053,B1_1,HKG,M,Sciences & Technology,ESL
+WE_HKG_054,B2_0,HKG,M,Sciences & Technology,ESL
+WE_HKG_055,B2_0,HKG,F,Sciences & Technology,ESL
+WE_HKG_056,B2_0,HKG,M,Sciences & Technology,ESL
+WE_HKG_057,B1_1,HKG,M,Sciences & Technology,ESL
+WE_HKG_058,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_059,B1_1,HKG,M,Sciences & Technology,ESL
+WE_HKG_060,B1_1,HKG,F,Sciences & Technology,ESL
+WE_HKG_061,B2_0,HKG,M,Sciences & Technology,ESL
+WE_HKG_062,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_063,B1_1,HKG,M,Sciences & Technology,ESL
+WE_HKG_064,B1_1,HKG,F,Sciences & Technology,ESL
+WE_HKG_065,B2_0,HKG,M,Sciences & Technology,ESL
+WE_HKG_066,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_067,B1_2,HKG,F,Sciences & Technology,ESL
+WE_HKG_068,B2_0,HKG,F,Sciences & Technology,ESL
+WE_HKG_069,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_070,B1_1,HKG,M,Sciences & Technology,ESL
+WE_HKG_071,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_072,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_073,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_074,B1_1,HKG,M,Sciences & Technology,ESL
+WE_HKG_075,B2_0,HKG,F,Sciences & Technology,ESL
+WE_HKG_076,B1_1,HKG,M,Sciences & Technology,ESL
+WE_HKG_077,B1_2,HKG,F,Sciences & Technology,ESL
+WE_HKG_078,B1_2,HKG,F,Sciences & Technology,ESL
+WE_HKG_079,B1_1,HKG,M,Sciences & Technology,ESL
+WE_HKG_080,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_081,B1_1,HKG,F,Sciences & Technology,ESL
+WE_HKG_082,B2_0,HKG,M,Sciences & Technology,ESL
+WE_HKG_083,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_084,B1_2,HKG,F,Sciences & Technology,ESL
+WE_HKG_085,B1_1,HKG,M,Sciences & Technology,ESL
+WE_HKG_086,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_087,B1_1,HKG,M,Sciences & Technology,ESL
+WE_HKG_088,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_089,B1_1,HKG,F,Sciences & Technology,ESL
+WE_HKG_090,B1_1,HKG,M,Sciences & Technology,ESL
+WE_HKG_091,B2_0,HKG,M,Sciences & Technology,ESL
+WE_HKG_092,B2_0,HKG,M,Sciences & Technology,ESL
+WE_HKG_093,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_094,B1_2,HKG,F,Sciences & Technology,ESL
+WE_HKG_095,A2_0,HKG,F,Sciences & Technology,ESL
+WE_HKG_096,B1_1,HKG,M,Sciences & Technology,ESL
+WE_HKG_097,B1_1,HKG,F,Sciences & Technology,ESL
+WE_HKG_098,B1_2,HKG,F,Sciences & Technology,ESL
+WE_HKG_099,B1_2,HKG,M,Sciences & Technology,ESL
+WE_HKG_100,B1_2,HKG,M,Sciences & Technology,ESL
+WE_IDN_001,B1_1,IDN,M,Sciences & Technology,EFL
+WE_IDN_002,B1_1,IDN,F,Social Sciences,EFL
+WE_IDN_003,B1_1,IDN,M,Sciences & Technology,EFL
+WE_IDN_004,B1_1,IDN,F,Social Sciences,EFL
+WE_IDN_005,B1_1,IDN,F,Sciences & Technology,EFL
+WE_IDN_006,A2_0,IDN,F,Sciences & Technology,EFL
+WE_IDN_007,B1_1,IDN,F,Humanities,EFL
+WE_IDN_008,A2_0,IDN,F,Sciences & Technology,EFL
+WE_IDN_009,B1_2,IDN,F,Sciences & Technology,EFL
+WE_IDN_010,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_011,B1_1,IDN,M,Humanities,EFL
+WE_IDN_012,B1_1,IDN,M,Sciences & Technology,EFL
+WE_IDN_013,B1_1,IDN,M,Sciences & Technology,EFL
+WE_IDN_014,B1_1,IDN,M,Humanities,EFL
+WE_IDN_015,B1_2,IDN,M,Social Sciences,EFL
+WE_IDN_016,B1_1,IDN,F,Sciences & Technology,EFL
+WE_IDN_017,A2_0,IDN,F,Humanities,EFL
+WE_IDN_018,B1_1,IDN,M,Sciences & Technology,EFL
+WE_IDN_019,B1_1,IDN,M,Sciences & Technology,EFL
+WE_IDN_020,B1_2,IDN,F,Social Sciences,EFL
+WE_IDN_021,B1_2,IDN,M,Social Sciences,EFL
+WE_IDN_022,A2_0,IDN,F,Humanities,EFL
+WE_IDN_023,A2_0,IDN,F,Humanities,EFL
+WE_IDN_024,B1_2,IDN,F,Humanities,EFL
+WE_IDN_025,A2_0,IDN,M,Sciences & Technology,EFL
+WE_IDN_026,B1_1,IDN,F,Humanities,EFL
+WE_IDN_027,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_028,B1_1,IDN,F,Social Sciences,EFL
+WE_IDN_029,B1_1,IDN,F,Sciences & Technology,EFL
+WE_IDN_030,B1_1,IDN,M,Sciences & Technology,EFL
+WE_IDN_031,B1_2,IDN,M,Social Sciences,EFL
+WE_IDN_032,B1_1,IDN,F,Social Sciences,EFL
+WE_IDN_033,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_034,B1_2,IDN,F,Sciences & Technology,EFL
+WE_IDN_035,B1_2,IDN,F,Humanities,EFL
+WE_IDN_036,B1_1,IDN,M,Sciences & Technology,EFL
+WE_IDN_037,B1_2,IDN,M,Social Sciences,EFL
+WE_IDN_038,B1_1,IDN,M,Social Sciences,EFL
+WE_IDN_039,A2_0,IDN,M,Sciences & Technology,EFL
+WE_IDN_040,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_041,B1_1,IDN,F,Humanities,EFL
+WE_IDN_042,B1_2,IDN,F,Humanities,EFL
+WE_IDN_043,B1_1,IDN,F,Humanities,EFL
+WE_IDN_044,B1_2,IDN,F,Sciences & Technology,EFL
+WE_IDN_045,A2_0,IDN,F,Social Sciences,EFL
+WE_IDN_046,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_047,B1_1,IDN,M,Social Sciences,EFL
+WE_IDN_048,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_049,B1_2,IDN,F,Sciences & Technology,EFL
+WE_IDN_050,A2_0,IDN,M,Sciences & Technology,EFL
+WE_IDN_051,B1_1,IDN,F,Humanities,EFL
+WE_IDN_052,B1_1,IDN,M,Sciences & Technology,EFL
+WE_IDN_053,B1_1,IDN,F,Humanities,EFL
+WE_IDN_054,A2_0,IDN,M,Sciences & Technology,EFL
+WE_IDN_055,B1_1,IDN,M,Sciences & Technology,EFL
+WE_IDN_056,B1_1,IDN,F,Sciences & Technology,EFL
+WE_IDN_057,B1_1,IDN,F,Social Sciences,EFL
+WE_IDN_058,B1_2,IDN,F,Sciences & Technology,EFL
+WE_IDN_059,B1_1,IDN,M,Sciences & Technology,EFL
+WE_IDN_060,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_061,B1_2,IDN,F,Sciences & Technology,EFL
+WE_IDN_062,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_063,A2_0,IDN,M,Sciences & Technology,EFL
+WE_IDN_064,B1_2,IDN,F,Humanities,EFL
+WE_IDN_065,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_066,B1_2,IDN,M,Social Sciences,EFL
+WE_IDN_067,B1_1,IDN,F,Humanities,EFL
+WE_IDN_068,B1_1,IDN,M,Sciences & Technology,EFL
+WE_IDN_069,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_070,A2_0,IDN,M,Sciences & Technology,EFL
+WE_IDN_071,A2_0,IDN,M,Sciences & Technology,EFL
+WE_IDN_072,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_073,B1_2,IDN,F,Humanities,EFL
+WE_IDN_074,B1_1,IDN,F,Sciences & Technology,EFL
+WE_IDN_075,A2_0,IDN,F,Humanities,EFL
+WE_IDN_076,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_077,B1_2,IDN,M,Social Sciences,EFL
+WE_IDN_078,B1_2,IDN,F,Sciences & Technology,EFL
+WE_IDN_079,B1_1,IDN,M,Humanities,EFL
+WE_IDN_080,A2_0,IDN,M,Humanities,EFL
+WE_IDN_081,B1_1,IDN,M,Sciences & Technology,EFL
+WE_IDN_082,B1_2,IDN,F,Sciences & Technology,EFL
+WE_IDN_083,B1_1,IDN,M,Sciences & Technology,EFL
+WE_IDN_084,B1_1,IDN,M,Sciences & Technology,EFL
+WE_IDN_085,B1_2,IDN,M,Social Sciences,EFL
+WE_IDN_086,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_087,B1_1,IDN,M,Humanities,EFL
+WE_IDN_088,B1_1,IDN,F,Humanities,EFL
+WE_IDN_089,B1_1,IDN,F,Social Sciences,EFL
+WE_IDN_090,B1_2,IDN,F,Humanities,EFL
+WE_IDN_091,B1_2,IDN,F,Sciences & Technology,EFL
+WE_IDN_092,B1_1,IDN,F,Sciences & Technology,EFL
+WE_IDN_093,B1_1,IDN,F,Humanities,EFL
+WE_IDN_094,A2_0,IDN,M,Sciences & Technology,EFL
+WE_IDN_095,A2_0,IDN,F,Sciences & Technology,EFL
+WE_IDN_096,B1_1,IDN,F,Humanities,EFL
+WE_IDN_097,A2_0,IDN,M,Social Sciences,EFL
+WE_IDN_098,B1_2,IDN,F,Sciences & Technology,EFL
+WE_IDN_099,B1_2,IDN,F,Social Sciences,EFL
+WE_IDN_100,B1_2,IDN,M,Social Sciences,EFL
+WE_IDN_101,B1_2,IDN,M,Humanities,EFL
+WE_IDN_102,B1_1,IDN,F,Social Sciences,EFL
+WE_IDN_103,B1_1,IDN,F,Sciences & Technology,EFL
+WE_IDN_104,B1_1,IDN,M,Sciences & Technology,EFL
+WE_IDN_105,B1_1,IDN,F,Sciences & Technology,EFL
+WE_IDN_106,B1_1,IDN,M,Sciences & Technology,EFL
+WE_IDN_107,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_108,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_109,B1_1,IDN,M,Social Sciences,EFL
+WE_IDN_110,A2_0,IDN,F,Sciences & Technology,EFL
+WE_IDN_111,B1_2,IDN,F,Sciences & Technology,EFL
+WE_IDN_112,B1_1,IDN,F,Humanities,EFL
+WE_IDN_113,B1_2,IDN,F,Humanities,EFL
+WE_IDN_114,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_115,B1_2,IDN,F,Sciences & Technology,EFL
+WE_IDN_116,B1_1,IDN,M,Sciences & Technology,EFL
+WE_IDN_117,B1_2,IDN,F,Social Sciences,EFL
+WE_IDN_118,B1_1,IDN,F,Humanities,EFL
+WE_IDN_119,A2_0,IDN,M,Humanities,EFL
+WE_IDN_120,B1_1,IDN,M,Humanities,EFL
+WE_IDN_121,B1_1,IDN,F,Sciences & Technology,EFL
+WE_IDN_122,B1_1,IDN,M,Sciences & Technology,EFL
+WE_IDN_123,B1_1,IDN,F,Social Sciences,EFL
+WE_IDN_124,B1_1,IDN,M,Sciences & Technology,EFL
+WE_IDN_125,B1_1,IDN,M,Humanities,EFL
+WE_IDN_126,A2_0,IDN,F,Humanities,EFL
+WE_IDN_127,B1_1,IDN,F,Sciences & Technology,EFL
+WE_IDN_128,A2_0,IDN,F,Sciences & Technology,EFL
+WE_IDN_129,B1_1,IDN,M,Humanities,EFL
+WE_IDN_130,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_131,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_132,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_133,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_134,B1_1,IDN,M,Sciences & Technology,EFL
+WE_IDN_135,B1_2,IDN,F,Sciences & Technology,EFL
+WE_IDN_136,B1_2,IDN,F,Humanities,EFL
+WE_IDN_137,A2_0,IDN,F,Social Sciences,EFL
+WE_IDN_138,B1_1,IDN,M,Humanities,EFL
+WE_IDN_139,B1_1,IDN,F,Humanities,EFL
+WE_IDN_140,B1_1,IDN,F,Social Sciences,EFL
+WE_IDN_141,B1_1,IDN,F,Humanities,EFL
+WE_IDN_142,B1_2,IDN,F,Sciences & Technology,EFL
+WE_IDN_143,B1_1,IDN,F,Sciences & Technology,EFL
+WE_IDN_144,B1_1,IDN,F,Social Sciences,EFL
+WE_IDN_145,B1_1,IDN,M,Sciences & Technology,EFL
+WE_IDN_146,B1_1,IDN,M,Sciences & Technology,EFL
+WE_IDN_147,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_148,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_149,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_150,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_151,A2_0,IDN,F,Humanities,EFL
+WE_IDN_152,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_153,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_154,A2_0,IDN,M,Social Sciences,EFL
+WE_IDN_155,B1_2,IDN,F,Sciences & Technology,EFL
+WE_IDN_156,B1_1,IDN,M,Social Sciences,EFL
+WE_IDN_157,B1_1,IDN,F,Humanities,EFL
+WE_IDN_158,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_159,B1_2,IDN,F,Social Sciences,EFL
+WE_IDN_160,B1_2,IDN,F,Humanities,EFL
+WE_IDN_161,B2_0,IDN,F,Humanities,EFL
+WE_IDN_162,B1_1,IDN,M,Sciences & Technology,EFL
+WE_IDN_163,B1_1,IDN,M,Sciences & Technology,EFL
+WE_IDN_164,B1_2,IDN,F,Social Sciences,EFL
+WE_IDN_165,B1_2,IDN,F,Sciences & Technology,EFL
+WE_IDN_166,B1_1,IDN,F,Humanities,EFL
+WE_IDN_167,A2_0,IDN,F,Sciences & Technology,EFL
+WE_IDN_168,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_169,B1_2,IDN,F,Humanities,EFL
+WE_IDN_170,B1_1,IDN,F,Social Sciences,EFL
+WE_IDN_171,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_172,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_173,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_174,B1_1,IDN,M,Sciences & Technology,EFL
+WE_IDN_175,B1_1,IDN,M,Sciences & Technology,EFL
+WE_IDN_176,B1_1,IDN,F,Humanities,EFL
+WE_IDN_177,B2_0,IDN,M,Social Sciences,EFL
+WE_IDN_178,B2_0,IDN,F,Humanities,EFL
+WE_IDN_179,A2_0,IDN,M,Social Sciences,EFL
+WE_IDN_180,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_181,B1_2,IDN,M,Social Sciences,EFL
+WE_IDN_182,A2_0,IDN,M,Sciences & Technology,EFL
+WE_IDN_183,B1_1,IDN,M,Social Sciences,EFL
+WE_IDN_184,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_185,B1_1,IDN,F,Sciences & Technology,EFL
+WE_IDN_186,A2_0,IDN,M,Sciences & Technology,EFL
+WE_IDN_187,B1_2,IDN,F,Sciences & Technology,EFL
+WE_IDN_188,B1_2,IDN,F,Sciences & Technology,EFL
+WE_IDN_189,B1_2,IDN,F,Sciences & Technology,EFL
+WE_IDN_190,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_191,A2_0,IDN,M,Sciences & Technology,EFL
+WE_IDN_192,B1_2,IDN,M,Social Sciences,EFL
+WE_IDN_193,A2_0,IDN,M,Sciences & Technology,EFL
+WE_IDN_194,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_195,B1_1,IDN,F,Social Sciences,EFL
+WE_IDN_196,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_197,B1_2,IDN,F,Social Sciences,EFL
+WE_IDN_198,B1_2,IDN,M,Sciences & Technology,EFL
+WE_IDN_199,A2_0,IDN,F,Sciences & Technology,EFL
+WE_IDN_200,B1_1,IDN,M,Sciences & Technology,EFL
+WE_JPN_001,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_002,B1_2,JPN,M,Sciences & Technology,EFL
+WE_JPN_003,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_004,B2_0,JPN,F,Social Sciences,EFL
+WE_JPN_005,B2_0,JPN,F,Life Sciences,EFL
+WE_JPN_006,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_007,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_008,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_009,B2_0,JPN,M,Humanities,EFL
+WE_JPN_010,B1_2,JPN,F,Humanities,EFL
+WE_JPN_011,B2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_012,B2_0,JPN,M,Social Sciences,EFL
+WE_JPN_013,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_014,B1_1,JPN,F,Humanities,EFL
+WE_JPN_015,B1_2,JPN,F,Humanities,EFL
+WE_JPN_016,B1_2,JPN,F,Sciences & Technology,EFL
+WE_JPN_017,B2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_018,B1_1,JPN,F,Humanities,EFL
+WE_JPN_019,B1_2,JPN,F,Social Sciences,EFL
+WE_JPN_020,B1_2,JPN,M,Social Sciences,EFL
+WE_JPN_021,B1_2,JPN,F,Humanities,EFL
+WE_JPN_022,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_023,B2_0,JPN,F,Humanities,EFL
+WE_JPN_024,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_025,B1_2,JPN,F,Social Sciences,EFL
+WE_JPN_026,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_027,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_028,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_029,B1_1,JPN,F,Social Sciences,EFL
+WE_JPN_030,B1_1,JPN,F,Humanities,EFL
+WE_JPN_031,B1_2,JPN,M,Humanities,EFL
+WE_JPN_032,B1_1,JPN,F,Social Sciences,EFL
+WE_JPN_033,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_034,B2_0,JPN,M,Social Sciences,EFL
+WE_JPN_035,B2_0,JPN,F,Life Sciences,EFL
+WE_JPN_036,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_037,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_038,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_039,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_040,B1_2,JPN,M,Social Sciences,EFL
+WE_JPN_041,B2_0,JPN,F,Life Sciences,EFL
+WE_JPN_042,B2_0,JPN,F,Humanities,EFL
+WE_JPN_043,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_044,B1_1,JPN,F,Life Sciences,EFL
+WE_JPN_045,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_046,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_047,B2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_048,B1_2,JPN,F,Social Sciences,EFL
+WE_JPN_049,B1_2,JPN,F,Sciences & Technology,EFL
+WE_JPN_050,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_051,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_052,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_053,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_054,B2_0,JPN,F,Life Sciences,EFL
+WE_JPN_055,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_056,B1_2,JPN,F,Sciences & Technology,EFL
+WE_JPN_057,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_058,B1_2,JPN,F,Humanities,EFL
+WE_JPN_059,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_060,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_061,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_062,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_063,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_064,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_065,B1_2,JPN,F,Sciences & Technology,EFL
+WE_JPN_066,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_067,B1_2,JPN,M,Sciences & Technology,EFL
+WE_JPN_068,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_069,B2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_070,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_071,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_072,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_073,B1_2,JPN,M,Sciences & Technology,EFL
+WE_JPN_074,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_075,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_076,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_077,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_078,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_079,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_080,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_081,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_082,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_083,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_084,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_085,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_086,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_087,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_088,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_089,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_090,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_091,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_092,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_093,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_094,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_095,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_096,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_097,B1_2,JPN,M,Sciences & Technology,EFL
+WE_JPN_098,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_099,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_100,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_101,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_102,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_103,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_104,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_105,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_106,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_107,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_108,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_109,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_110,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_111,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_112,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_113,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_114,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_115,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_116,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_117,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_118,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_119,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_120,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_121,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_122,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_123,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_124,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_125,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_126,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_127,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_128,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_129,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_130,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_131,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_132,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_133,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_134,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_135,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_136,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_137,B1_2,JPN,M,Social Sciences,EFL
+WE_JPN_138,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_139,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_140,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_141,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_142,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_143,B1_1,JPN,F,Social Sciences,EFL
+WE_JPN_144,A2_0,JPN,F,Social Sciences,EFL
+WE_JPN_145,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_146,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_147,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_148,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_149,B1_1,JPN,F,Social Sciences,EFL
+WE_JPN_150,B1_1,JPN,F,Social Sciences,EFL
+WE_JPN_151,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_152,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_153,B1_2,JPN,M,Social Sciences,EFL
+WE_JPN_154,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_155,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_156,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_157,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_158,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_159,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_160,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_161,A2_0,JPN,F,Social Sciences,EFL
+WE_JPN_162,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_163,A2_0,JPN,F,Social Sciences,EFL
+WE_JPN_164,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_165,B1_1,JPN,F,Social Sciences,EFL
+WE_JPN_166,B1_1,JPN,F,Social Sciences,EFL
+WE_JPN_167,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_168,B1_2,JPN,F,Social Sciences,EFL
+WE_JPN_169,B1_2,JPN,M,Social Sciences,EFL
+WE_JPN_170,B1_2,JPN,M,Social Sciences,EFL
+WE_JPN_171,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_172,B1_1,JPN,F,Social Sciences,EFL
+WE_JPN_173,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_174,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_175,B1_1,JPN,F,Social Sciences,EFL
+WE_JPN_176,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_177,B1_2,JPN,M,Social Sciences,EFL
+WE_JPN_178,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_179,B1_2,JPN,F,Sciences & Technology,EFL
+WE_JPN_180,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_181,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_182,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_183,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_184,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_185,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_186,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_187,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_188,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_189,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_190,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_191,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_192,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_193,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_194,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_195,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_196,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_197,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_198,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_199,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_200,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_201,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_202,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_203,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_204,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_205,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_206,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_207,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_208,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_209,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_210,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_211,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_212,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_213,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_214,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_215,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_216,B1_2,JPN,F,Sciences & Technology,EFL
+WE_JPN_217,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_218,B1_2,JPN,M,Sciences & Technology,EFL
+WE_JPN_219,B1_2,JPN,M,Sciences & Technology,EFL
+WE_JPN_220,B2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_221,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_222,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_223,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_224,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_225,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_226,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_227,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_228,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_229,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_230,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_231,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_232,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_233,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_234,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_235,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_236,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_237,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_238,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_239,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_240,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_241,B1_2,JPN,M,Sciences & Technology,EFL
+WE_JPN_242,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_243,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_244,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_245,B1_2,JPN,M,Sciences & Technology,EFL
+WE_JPN_246,B1_2,JPN,M,Sciences & Technology,EFL
+WE_JPN_247,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_248,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_249,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_250,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_251,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_252,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_253,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_254,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_255,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_256,B1_2,JPN,M,Sciences & Technology,EFL
+WE_JPN_257,B1_2,JPN,F,Sciences & Technology,EFL
+WE_JPN_258,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_259,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_260,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_261,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_262,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_263,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_264,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_265,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_266,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_267,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_268,B1_2,JPN,F,Sciences & Technology,EFL
+WE_JPN_269,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_270,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_271,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_272,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_273,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_274,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_275,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_276,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_277,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_278,A2_0,JPN,F,Social Sciences,EFL
+WE_JPN_279,B1_2,JPN,M,Social Sciences,EFL
+WE_JPN_280,B1_2,JPN,M,Social Sciences,EFL
+WE_JPN_281,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_282,A2_0,JPN,F,Social Sciences,EFL
+WE_JPN_283,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_284,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_285,B1_1,JPN,F,Social Sciences,EFL
+WE_JPN_286,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_287,A2_0,JPN,F,Social Sciences,EFL
+WE_JPN_288,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_289,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_290,B1_1,JPN,F,Social Sciences,EFL
+WE_JPN_291,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_292,A2_0,JPN,F,Social Sciences,EFL
+WE_JPN_293,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_294,B1_2,JPN,M,Social Sciences,EFL
+WE_JPN_295,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_296,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_297,B2_0,JPN,F,Social Sciences,EFL
+WE_JPN_298,B1_2,JPN,F,Social Sciences,EFL
+WE_JPN_299,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_300,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_301,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_302,B2_0,JPN,M,Social Sciences,EFL
+WE_JPN_303,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_304,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_305,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_306,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_307,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_308,B1_2,JPN,M,Social Sciences,EFL
+WE_JPN_309,B1_2,JPN,F,Social Sciences,EFL
+WE_JPN_310,A2_0,JPN,F,Social Sciences,EFL
+WE_JPN_311,A2_0,JPN,F,Social Sciences,EFL
+WE_JPN_312,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_313,A2_0,JPN,F,Social Sciences,EFL
+WE_JPN_314,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_315,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_316,B1_2,JPN,M,Social Sciences,EFL
+WE_JPN_317,B1_1,JPN,F,Social Sciences,EFL
+WE_JPN_318,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_319,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_320,B1_1,JPN,F,Social Sciences,EFL
+WE_JPN_321,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_322,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_323,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_324,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_325,B1_2,JPN,M,Social Sciences,EFL
+WE_JPN_326,B1_1,JPN,F,Social Sciences,EFL
+WE_JPN_327,A2_0,JPN,M,Social Sciences,EFL
+WE_JPN_328,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_329,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_330,B1_2,JPN,M,Social Sciences,EFL
+WE_JPN_331,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_332,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_333,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_334,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_335,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_336,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_337,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_338,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_339,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_340,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_341,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_342,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_343,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_344,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_345,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_346,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_347,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_348,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_349,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_350,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_351,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_352,B1_2,JPN,M,Sciences & Technology,EFL
+WE_JPN_353,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_354,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_355,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_356,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_357,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_358,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_359,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_360,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_361,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_362,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_363,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_364,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_365,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_366,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_367,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_368,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_369,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_370,A2_0,JPN,F,Social Sciences,EFL
+WE_JPN_371,B1_1,JPN,M,Social Sciences,EFL
+WE_JPN_372,B1_1,JPN,F,Social Sciences,EFL
+WE_JPN_373,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_374,B1_1,JPN,F,Humanities,EFL
+WE_JPN_375,B2_0,JPN,F,Humanities,EFL
+WE_JPN_376,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_377,B1_1,JPN,F,Sciences & Technology,EFL
+WE_JPN_378,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_379,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_380,B1_2,JPN,F,Sciences & Technology,EFL
+WE_JPN_381,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_382,B1_2,JPN,M,Sciences & Technology,EFL
+WE_JPN_383,B1_2,JPN,F,Sciences & Technology,EFL
+WE_JPN_384,B1_2,JPN,M,Sciences & Technology,EFL
+WE_JPN_385,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_386,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_387,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_388,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_389,B1_2,JPN,F,Sciences & Technology,EFL
+WE_JPN_390,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_391,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_392,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_393,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_394,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_395,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_396,A2_0,JPN,M,Sciences & Technology,EFL
+WE_JPN_397,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_398,A2_0,JPN,F,Sciences & Technology,EFL
+WE_JPN_399,B1_1,JPN,M,Sciences & Technology,EFL
+WE_JPN_400,A2_0,JPN,F,Sciences & Technology,EFL
+WE_KOR_001,A2_0,KOR,F,Sciences & Technology,EFL
+WE_KOR_002,B1_2,KOR,M,Social Sciences,EFL
+WE_KOR_003,B1_1,KOR,F,Sciences & Technology,EFL
+WE_KOR_004,B2_0,KOR,F,Sciences & Technology,EFL
+WE_KOR_005,A2_0,KOR,M,Social Sciences,EFL
+WE_KOR_006,A2_0,KOR,F,Sciences & Technology,EFL
+WE_KOR_007,A2_0,KOR,M,Social Sciences,EFL
+WE_KOR_008,B1_1,KOR,M,Sciences & Technology,EFL
+WE_KOR_009,B1_1,KOR,F,Sciences & Technology,EFL
+WE_KOR_010,B1_2,KOR,M,Sciences & Technology,EFL
+WE_KOR_011,B1_2,KOR,M,Sciences & Technology,EFL
+WE_KOR_012,B1_2,KOR,M,Sciences & Technology,EFL
+WE_KOR_013,B2_0,KOR,M,Social Sciences,EFL
+WE_KOR_014,B1_1,KOR,F,Sciences & Technology,EFL
+WE_KOR_015,B1_1,KOR,F,Sciences & Technology,EFL
+WE_KOR_016,B1_1,KOR,M,Sciences & Technology,EFL
+WE_KOR_017,B1_1,KOR,M,Sciences & Technology,EFL
+WE_KOR_018,A2_0,KOR,M,Social Sciences,EFL
+WE_KOR_019,B1_1,KOR,M,Social Sciences,EFL
+WE_KOR_020,B2_0,KOR,M,Sciences & Technology,EFL
+WE_KOR_021,A2_0,KOR,M,Sciences & Technology,EFL
+WE_KOR_022,B1_1,KOR,F,Sciences & Technology,EFL
+WE_KOR_023,B1_1,KOR,F,Sciences & Technology,EFL
+WE_KOR_024,B1_2,KOR,M,Social Sciences,EFL
+WE_KOR_025,B1_1,KOR,F,Social Sciences,EFL
+WE_KOR_026,A2_0,KOR,M,Sciences & Technology,EFL
+WE_KOR_027,B1_1,KOR,M,Sciences & Technology,EFL
+WE_KOR_028,A2_0,KOR,F,Social Sciences,EFL
+WE_KOR_029,B1_1,KOR,F,Sciences & Technology,EFL
+WE_KOR_030,B1_2,KOR,F,Sciences & Technology,EFL
+WE_KOR_031,A2_0,KOR,F,Humanities,EFL
+WE_KOR_032,B1_2,KOR,M,Humanities,EFL
+WE_KOR_033,B1_1,KOR,F,Humanities,EFL
+WE_KOR_034,B1_1,KOR,M,Social Sciences,EFL
+WE_KOR_035,B1_2,KOR,F,Humanities,EFL
+WE_KOR_036,B1_1,KOR,M,Social Sciences,EFL
+WE_KOR_037,B1_2,KOR,M,Humanities,EFL
+WE_KOR_038,A2_0,KOR,M,Social Sciences,EFL
+WE_KOR_039,B1_1,KOR,F,Humanities,EFL
+WE_KOR_040,B1_2,KOR,M,Humanities,EFL
+WE_KOR_041,B1_1,KOR,M,Humanities,EFL
+WE_KOR_042,B1_1,KOR,M,Humanities,EFL
+WE_KOR_043,A2_0,KOR,F,Humanities,EFL
+WE_KOR_044,B1_2,KOR,F,Humanities,EFL
+WE_KOR_045,A2_0,KOR,M,Humanities,EFL
+WE_KOR_046,A2_0,KOR,F,Humanities,EFL
+WE_KOR_047,B1_1,KOR,F,Humanities,EFL
+WE_KOR_048,A2_0,KOR,F,Social Sciences,EFL
+WE_KOR_049,B1_1,KOR,F,Humanities,EFL
+WE_KOR_050,A2_0,KOR,F,Humanities,EFL
+WE_KOR_051,B1_2,KOR,F,Social Sciences,EFL
+WE_KOR_052,B1_2,KOR,M,Humanities,EFL
+WE_KOR_053,A2_0,KOR,F,Humanities,EFL
+WE_KOR_054,B1_2,KOR,F,Social Sciences,EFL
+WE_KOR_055,B1_1,KOR,F,Social Sciences,EFL
+WE_KOR_056,B2_0,KOR,F,Humanities,EFL
+WE_KOR_057,B2_0,KOR,M,Social Sciences,EFL
+WE_KOR_058,A2_0,KOR,F,Humanities,EFL
+WE_KOR_059,B1_1,KOR,M,Social Sciences,EFL
+WE_KOR_060,A2_0,KOR,M,Social Sciences,EFL
+WE_KOR_061,A2_0,KOR,F,Humanities,EFL
+WE_KOR_062,A2_0,KOR,F,Social Sciences,EFL
+WE_KOR_063,A2_0,KOR,F,Social Sciences,EFL
+WE_KOR_064,A2_0,KOR,F,Humanities,EFL
+WE_KOR_065,A2_0,KOR,F,Humanities,EFL
+WE_KOR_066,B1_2,KOR,F,Humanities,EFL
+WE_KOR_067,B1_1,KOR,F,Humanities,EFL
+WE_KOR_068,A2_0,KOR,M,Social Sciences,EFL
+WE_KOR_069,B1_1,KOR,M,Social Sciences,EFL
+WE_KOR_070,B1_2,KOR,F,Humanities,EFL
+WE_KOR_071,A2_0,KOR,F,Social Sciences,EFL
+WE_KOR_072,B1_1,KOR,M,Social Sciences,EFL
+WE_KOR_073,B1_1,KOR,F,Humanities,EFL
+WE_KOR_074,A2_0,KOR,F,Humanities,EFL
+WE_KOR_075,B2_0,KOR,M,Humanities,EFL
+WE_KOR_076,B1_2,KOR,M,Humanities,EFL
+WE_KOR_077,B1_1,KOR,F,Humanities,EFL
+WE_KOR_078,B1_1,KOR,M,Humanities,EFL
+WE_KOR_079,B2_0,KOR,M,Social Sciences,EFL
+WE_KOR_080,B1_2,KOR,M,Humanities,EFL
+WE_KOR_081,A2_0,KOR,F,Social Sciences,EFL
+WE_KOR_082,A2_0,KOR,M,Social Sciences,EFL
+WE_KOR_083,B1_1,KOR,F,Humanities,EFL
+WE_KOR_084,B1_2,KOR,M,Humanities,EFL
+WE_KOR_085,B1_2,KOR,M,Humanities,EFL
+WE_KOR_086,B1_2,KOR,F,Humanities,EFL
+WE_KOR_087,B1_2,KOR,F,Humanities,EFL
+WE_KOR_088,A2_0,KOR,F,Social Sciences,EFL
+WE_KOR_089,A2_0,KOR,M,Humanities,EFL
+WE_KOR_090,B1_1,KOR,M,Humanities,EFL
+WE_KOR_091,A2_0,KOR,F,Social Sciences,EFL
+WE_KOR_092,B1_1,KOR,F,Social Sciences,EFL
+WE_KOR_093,B1_1,KOR,F,Humanities,EFL
+WE_KOR_094,B1_1,KOR,F,Humanities,EFL
+WE_KOR_095,B2_0,KOR,M,Social Sciences,EFL
+WE_KOR_096,B1_2,KOR,F,Humanities,EFL
+WE_KOR_097,A2_0,KOR,F,Social Sciences,EFL
+WE_KOR_098,B1_2,KOR,F,Humanities,EFL
+WE_KOR_099,A2_0,KOR,M,Social Sciences,EFL
+WE_KOR_100,B1_1,KOR,M,Humanities,EFL
+WE_KOR_101,B1_2,KOR,F,Humanities,EFL
+WE_KOR_102,A2_0,KOR,M,Social Sciences,EFL
+WE_KOR_103,B1_2,KOR,F,Humanities,EFL
+WE_KOR_104,B1_2,KOR,F,Humanities,EFL
+WE_KOR_105,A2_0,KOR,F,Social Sciences,EFL
+WE_KOR_106,A2_0,KOR,M,Humanities,EFL
+WE_KOR_107,B1_2,KOR,M,Social Sciences,EFL
+WE_KOR_108,A2_0,KOR,F,Social Sciences,EFL
+WE_KOR_109,A2_0,KOR,F,Social Sciences,EFL
+WE_KOR_110,A2_0,KOR,F,Social Sciences,EFL
+WE_KOR_111,A2_0,KOR,F,Humanities,EFL
+WE_KOR_112,A2_0,KOR,F,Social Sciences,EFL
+WE_KOR_113,A2_0,KOR,M,Humanities,EFL
+WE_KOR_114,B2_0,KOR,F,Humanities,EFL
+WE_KOR_115,B1_1,KOR,M,Humanities,EFL
+WE_KOR_116,B2_0,KOR,M,Humanities,EFL
+WE_KOR_117,B1_2,KOR,F,Social Sciences,EFL
+WE_KOR_118,B1_1,KOR,M,Humanities,EFL
+WE_KOR_119,A2_0,KOR,M,Social Sciences,EFL
+WE_KOR_120,A2_0,KOR,F,Humanities,EFL
+WE_KOR_121,B1_1,KOR,F,Humanities,EFL
+WE_KOR_122,A2_0,KOR,M,Social Sciences,EFL
+WE_KOR_123,B1_2,KOR,F,Humanities,EFL
+WE_KOR_124,B1_2,KOR,M,Humanities,EFL
+WE_KOR_125,B1_2,KOR,F,Humanities,EFL
+WE_KOR_126,A2_0,KOR,M,Humanities,EFL
+WE_KOR_127,B2_0,KOR,M,Social Sciences,EFL
+WE_KOR_128,B2_0,KOR,M,Social Sciences,EFL
+WE_KOR_129,B1_2,KOR,F,Humanities,EFL
+WE_KOR_130,B1_2,KOR,F,Humanities,EFL
+WE_KOR_131,B1_1,KOR,F,Humanities,EFL
+WE_KOR_132,B1_1,KOR,F,Humanities,EFL
+WE_KOR_133,B1_1,KOR,M,Social Sciences,EFL
+WE_KOR_134,B1_2,KOR,F,Humanities,EFL
+WE_KOR_135,A2_0,KOR,F,Humanities,EFL
+WE_KOR_136,B1_1,KOR,M,Social Sciences,EFL
+WE_KOR_137,A2_0,KOR,F,Social Sciences,EFL
+WE_KOR_138,B2_0,KOR,M,Humanities,EFL
+WE_KOR_139,B1_2,KOR,F,Humanities,EFL
+WE_KOR_140,B1_1,KOR,F,Humanities,EFL
+WE_KOR_141,B1_2,KOR,F,Humanities,EFL
+WE_KOR_142,B1_2,KOR,M,Humanities,EFL
+WE_KOR_143,B1_2,KOR,F,Social Sciences,EFL
+WE_KOR_144,A2_0,KOR,F,Social Sciences,EFL
+WE_KOR_145,A2_0,KOR,F,Social Sciences,EFL
+WE_KOR_146,B1_2,KOR,M,Social Sciences,EFL
+WE_KOR_147,A2_0,KOR,M,Humanities,EFL
+WE_KOR_148,A2_0,KOR,F,Social Sciences,EFL
+WE_KOR_149,A2_0,KOR,F,Humanities,EFL
+WE_KOR_150,B1_1,KOR,F,Humanities,EFL
+WE_KOR_151,B2_0,KOR,F,Humanities,EFL
+WE_KOR_152,B1_2,KOR,F,Humanities,EFL
+WE_KOR_153,B1_2,KOR,F,Humanities,EFL
+WE_KOR_154,A2_0,KOR,M,Social Sciences,EFL
+WE_KOR_155,B1_1,KOR,M,Humanities,EFL
+WE_KOR_156,A2_0,KOR,F,Humanities,EFL
+WE_KOR_157,A2_0,KOR,F,Humanities,EFL
+WE_KOR_158,B1_1,KOR,M,Social Sciences,EFL
+WE_KOR_159,B1_1,KOR,M,Humanities,EFL
+WE_KOR_160,B2_0,KOR,F,Social Sciences,EFL
+WE_KOR_161,B1_2,KOR,F,Humanities,EFL
+WE_KOR_162,A2_0,KOR,M,Humanities,EFL
+WE_KOR_163,A2_0,KOR,F,Humanities,EFL
+WE_KOR_164,B1_2,KOR,M,Social Sciences,EFL
+WE_KOR_165,B1_1,KOR,F,Humanities,EFL
+WE_KOR_166,B1_2,KOR,M,Humanities,EFL
+WE_KOR_167,A2_0,KOR,F,Humanities,EFL
+WE_KOR_168,A2_0,KOR,M,Social Sciences,EFL
+WE_KOR_169,A2_0,KOR,M,Social Sciences,EFL
+WE_KOR_170,B1_1,KOR,F,Humanities,EFL
+WE_KOR_171,A2_0,KOR,M,Social Sciences,EFL
+WE_KOR_172,B1_2,KOR,F,Humanities,EFL
+WE_KOR_173,B1_2,KOR,F,Humanities,EFL
+WE_KOR_174,B1_1,KOR,M,Humanities,EFL
+WE_KOR_175,A2_0,KOR,F,Social Sciences,EFL
+WE_KOR_176,A2_0,KOR,F,Humanities,EFL
+WE_KOR_177,B2_0,KOR,F,Humanities,EFL
+WE_KOR_178,A2_0,KOR,F,Humanities,EFL
+WE_KOR_179,B1_2,KOR,F,Sciences & Technology,EFL
+WE_KOR_180,B1_2,KOR,F,Humanities,EFL
+WE_KOR_181,B1_2,KOR,M,Humanities,EFL
+WE_KOR_182,B1_2,KOR,F,Humanities,EFL
+WE_KOR_183,B1_2,KOR,M,Social Sciences,EFL
+WE_KOR_184,A2_0,KOR,M,Social Sciences,EFL
+WE_KOR_185,B1_2,KOR,F,Humanities,EFL
+WE_KOR_186,B1_2,KOR,F,Humanities,EFL
+WE_KOR_187,B1_2,KOR,F,Humanities,EFL
+WE_KOR_188,B1_1,KOR,M,Humanities,EFL
+WE_KOR_189,B1_2,KOR,M,Humanities,EFL
+WE_KOR_190,B1_1,KOR,F,Humanities,EFL
+WE_KOR_191,B1_2,KOR,F,Humanities,EFL
+WE_KOR_192,B1_2,KOR,F,Humanities,EFL
+WE_KOR_193,A2_0,KOR,M,Humanities,EFL
+WE_KOR_194,A2_0,KOR,M,Social Sciences,EFL
+WE_KOR_195,A2_0,KOR,F,Humanities,EFL
+WE_KOR_196,B1_1,KOR,M,Social Sciences,EFL
+WE_KOR_197,A2_0,KOR,F,Humanities,EFL
+WE_KOR_198,A2_0,KOR,M,Social Sciences,EFL
+WE_KOR_199,B1_2,KOR,F,Sciences & Technology,EFL
+WE_KOR_200,A2_0,KOR,F,Social Sciences,EFL
+WE_KOR_201,B1_2,KOR,F,Sciences & Technology,EFL
+WE_KOR_202,B1_2,KOR,M,Social Sciences,EFL
+WE_KOR_203,B1_1,KOR,M,Sciences & Technology,EFL
+WE_KOR_204,B2_0,KOR,F,Sciences & Technology,EFL
+WE_KOR_205,B1_2,KOR,F,Sciences & Technology,EFL
+WE_KOR_206,B1_1,KOR,F,Sciences & Technology,EFL
+WE_KOR_207,B2_0,KOR,F,Humanities,EFL
+WE_KOR_208,B2_0,KOR,F,Sciences & Technology,EFL
+WE_KOR_209,B1_2,KOR,F,Social Sciences,EFL
+WE_KOR_210,B1_1,KOR,F,Humanities,EFL
+WE_KOR_211,B1_2,KOR,F,Social Sciences,EFL
+WE_KOR_212,B2_0,KOR,F,Humanities,EFL
+WE_KOR_213,B2_0,KOR,M,Humanities,EFL
+WE_KOR_214,B2_0,KOR,F,Humanities,EFL
+WE_KOR_215,B2_0,KOR,F,Social Sciences,EFL
+WE_KOR_216,B2_0,KOR,F,Humanities,EFL
+WE_KOR_217,B1_2,KOR,F,Social Sciences,EFL
+WE_KOR_218,B2_0,KOR,F,Humanities,EFL
+WE_KOR_219,B2_0,KOR,F,Social Sciences,EFL
+WE_KOR_220,B2_0,KOR,F,Humanities,EFL
+WE_KOR_221,B2_0,KOR,F,Humanities,EFL
+WE_KOR_222,B2_0,KOR,M,Humanities,EFL
+WE_KOR_223,B2_0,KOR,F,Humanities,EFL
+WE_KOR_224,B2_0,KOR,M,Humanities,EFL
+WE_KOR_225,B1_2,KOR,F,Humanities,EFL
+WE_KOR_226,B2_0,KOR,F,Humanities,EFL
+WE_KOR_227,B2_0,KOR,F,Social Sciences,EFL
+WE_KOR_228,B2_0,KOR,F,Humanities,EFL
+WE_KOR_229,A2_0,KOR,F,Humanities,EFL
+WE_KOR_230,B1_2,KOR,F,Sciences & Technology,EFL
+WE_KOR_231,B2_0,KOR,M,Humanities,EFL
+WE_KOR_232,B2_0,KOR,F,Humanities,EFL
+WE_KOR_233,B2_0,KOR,F,Humanities,EFL
+WE_KOR_234,B2_0,KOR,F,Humanities,EFL
+WE_KOR_235,B2_0,KOR,F,Humanities,EFL
+WE_KOR_236,B1_1,KOR,F,Humanities,EFL
+WE_KOR_237,B2_0,KOR,M,Social Sciences,EFL
+WE_KOR_238,B2_0,KOR,F,Humanities,EFL
+WE_KOR_239,B2_0,KOR,F,Humanities,EFL
+WE_KOR_240,B2_0,KOR,F,Humanities,EFL
+WE_KOR_241,B1_1,KOR,F,Social Sciences,EFL
+WE_KOR_242,B1_2,KOR,F,Social Sciences,EFL
+WE_KOR_243,B1_2,KOR,M,Humanities,EFL
+WE_KOR_244,B2_0,KOR,F,Humanities,EFL
+WE_KOR_245,B2_0,KOR,M,Humanities,EFL
+WE_KOR_246,B2_0,KOR,M,Sciences & Technology,EFL
+WE_KOR_247,B2_0,KOR,M,Humanities,EFL
+WE_KOR_248,B1_2,KOR,M,Humanities,EFL
+WE_KOR_249,B1_1,KOR,F,Humanities,EFL
+WE_KOR_250,B2_0,KOR,M,Humanities,EFL
+WE_KOR_251,B1_2,KOR,M,Humanities,EFL
+WE_KOR_252,B1_2,KOR,M,Humanities,EFL
+WE_KOR_253,B2_0,KOR,F,Humanities,EFL
+WE_KOR_254,B2_0,KOR,F,Humanities,EFL
+WE_KOR_255,B2_0,KOR,F,Humanities,EFL
+WE_KOR_256,B2_0,KOR,F,Humanities,EFL
+WE_KOR_257,B2_0,KOR,F,Humanities,EFL
+WE_KOR_258,B1_2,KOR,F,Humanities,EFL
+WE_KOR_259,B2_0,KOR,F,Social Sciences,EFL
+WE_KOR_260,B2_0,KOR,F,Humanities,EFL
+WE_KOR_261,B1_2,KOR,F,Humanities,EFL
+WE_KOR_262,B1_2,KOR,F,Humanities,EFL
+WE_KOR_263,B2_0,KOR,F,Humanities,EFL
+WE_KOR_264,B2_0,KOR,F,Humanities,EFL
+WE_KOR_265,B1_2,KOR,F,Social Sciences,EFL
+WE_KOR_266,B2_0,KOR,F,Humanities,EFL
+WE_KOR_267,A2_0,KOR,F,Humanities,EFL
+WE_KOR_268,B2_0,KOR,F,Humanities,EFL
+WE_KOR_269,B2_0,KOR,F,Humanities,EFL
+WE_KOR_270,B2_0,KOR,M,Humanities,EFL
+WE_KOR_271,B2_0,KOR,F,Humanities,EFL
+WE_KOR_272,B2_0,KOR,F,Humanities,EFL
+WE_KOR_273,B1_1,KOR,F,Humanities,EFL
+WE_KOR_274,B2_0,KOR,F,Humanities,EFL
+WE_KOR_275,B2_0,KOR,M,Humanities,EFL
+WE_KOR_276,B1_2,KOR,F,Social Sciences,EFL
+WE_KOR_277,B1_2,KOR,F,Social Sciences,EFL
+WE_KOR_278,B2_0,KOR,F,Humanities,EFL
+WE_KOR_279,B1_2,KOR,F,Humanities,EFL
+WE_KOR_280,B1_2,KOR,F,Humanities,EFL
+WE_KOR_281,B2_0,KOR,F,Humanities,EFL
+WE_KOR_282,B2_0,KOR,F,Humanities,EFL
+WE_KOR_283,B1_2,KOR,M,Humanities,EFL
+WE_KOR_284,B2_0,KOR,F,Humanities,EFL
+WE_KOR_285,B2_0,KOR,F,Humanities,EFL
+WE_KOR_286,B2_0,KOR,F,Life Sciences,EFL
+WE_KOR_287,B2_0,KOR,F,Humanities,EFL
+WE_KOR_288,B1_2,KOR,F,Sciences & Technology,EFL
+WE_KOR_289,B2_0,KOR,F,Humanities,EFL
+WE_KOR_290,B2_0,KOR,F,Sciences & Technology,EFL
+WE_KOR_291,B2_0,KOR,F,Sciences & Technology,EFL
+WE_KOR_292,B2_0,KOR,F,Sciences & Technology,EFL
+WE_KOR_293,B1_2,KOR,F,Humanities,EFL
+WE_KOR_294,B1_2,KOR,F,Sciences & Technology,EFL
+WE_KOR_295,B1_2,KOR,M,Humanities,EFL
+WE_KOR_296,A2_0,KOR,M,Social Sciences,EFL
+WE_KOR_297,B1_2,KOR,F,Sciences & Technology,EFL
+WE_KOR_298,B1_1,KOR,F,Humanities,EFL
+WE_KOR_299,B1_2,KOR,F,Sciences & Technology,EFL
+WE_KOR_300,B1_2,KOR,F,Humanities,EFL
+WE_PAK_001,B1_1,PAK,F,Humanities,ESL
+WE_PAK_002,B1_1,PAK,M,Humanities,ESL
+WE_PAK_003,B1_2,PAK,F,Sciences & Technology,ESL
+WE_PAK_005,B1_2,PAK,M,Sciences & Technology,ESL
+WE_PAK_006,B1_2,PAK,F,Humanities,ESL
+WE_PAK_007,B1_2,PAK,M,Sciences & Technology,ESL
+WE_PAK_009,B1_1,PAK,F,Humanities,ESL
+WE_PAK_010,B1_2,PAK,F,Sciences & Technology,ESL
+WE_PAK_011,A2_0,PAK,F,Humanities,ESL
+WE_PAK_012,B1_2,PAK,M,Sciences & Technology,ESL
+WE_PAK_014,B1_1,PAK,F,Social Sciences,ESL
+WE_PAK_021,B1_2,PAK,F,Social Sciences,ESL
+WE_PAK_022,B1_1,PAK,F,Social Sciences,ESL
+WE_PAK_023,A2_0,PAK,F,Sciences & Technology,ESL
+WE_PAK_024,B1_2,PAK,F,Humanities,ESL
+WE_PAK_025,B1_2,PAK,F,Social Sciences,ESL
+WE_PAK_026,B1_2,PAK,F,Social Sciences,ESL
+WE_PAK_029,A2_0,PAK,F,Social Sciences,ESL
+WE_PAK_030,B1_2,PAK,F,Social Sciences,ESL
+WE_PAK_032,B1_1,PAK,F,Social Sciences,ESL
+WE_PAK_037,B1_2,PAK,F,Humanities,ESL
+WE_PAK_038,B1_2,PAK,M,Sciences & Technology,ESL
+WE_PAK_039,B1_1,PAK,M,Sciences & Technology,ESL
+WE_PAK_041,B1_1,PAK,M,Sciences & Technology,ESL
+WE_PAK_042,B1_1,PAK,F,Social Sciences,ESL
+WE_PAK_044,B1_2,PAK,M,Humanities,ESL
+WE_PAK_045,B1_1,PAK,M,Sciences & Technology,ESL
+WE_PAK_048,A2_0,PAK,M,Sciences & Technology,ESL
+WE_PAK_049,A2_0,PAK,M,Humanities,ESL
+WE_PAK_050,B1_1,PAK,M,Humanities,ESL
+WE_PAK_051,B1_2,PAK,F,Humanities,ESL
+WE_PAK_052,A2_0,PAK,F,Social Sciences,ESL
+WE_PAK_053,B1_1,PAK,F,Humanities,ESL
+WE_PAK_054,B1_1,PAK,M,Humanities,ESL
+WE_PAK_058,B1_1,PAK,F,Social Sciences,ESL
+WE_PAK_060,A2_0,PAK,F,Social Sciences,ESL
+WE_PAK_063,B1_2,PAK,F,Sciences & Technology,ESL
+WE_PAK_065,B1_1,PAK,M,Sciences & Technology,ESL
+WE_PAK_066,B1_1,PAK,M,Social Sciences,ESL
+WE_PAK_067,A2_0,PAK,F,Social Sciences,ESL
+WE_PAK_071,B1_2,PAK,M,Sciences & Technology,ESL
+WE_PAK_072,A2_0,PAK,M,Sciences & Technology,ESL
+WE_PAK_074,B1_1,PAK,F,Social Sciences,ESL
+WE_PAK_075,B1_2,PAK,F,Humanities,ESL
+WE_PAK_076,B1_2,PAK,F,Humanities,ESL
+WE_PAK_079,B1_1,PAK,M,Humanities,ESL
+WE_PAK_080,B1_2,PAK,F,Sciences & Technology,ESL
+WE_PAK_081,B1_1,PAK,F,Social Sciences,ESL
+WE_PAK_085,B1_2,PAK,F,Social Sciences,ESL
+WE_PAK_088,B1_1,PAK,F,Social Sciences,ESL
+WE_PAK_090,B1_2,PAK,M,Sciences & Technology,ESL
+WE_PAK_093,B1_2,PAK,F,Sciences & Technology,ESL
+WE_PAK_095,B1_2,PAK,M,Sciences & Technology,ESL
+WE_PAK_096,B1_1,PAK,M,Social Sciences,ESL
+WE_PAK_097,B1_1,PAK,F,Social Sciences,ESL
+WE_PAK_099,B1_2,PAK,F,Social Sciences,ESL
+WE_PAK_101,B1_1,PAK,F,Social Sciences,ESL
+WE_PAK_102,B1_1,PAK,F,Social Sciences,ESL
+WE_PAK_104,B1_2,PAK,F,Sciences & Technology,ESL
+WE_PAK_106,B1_1,PAK,F,Social Sciences,ESL
+WE_PAK_107,B1_1,PAK,F,Social Sciences,ESL
+WE_PAK_110,B1_1,PAK,M,Social Sciences,ESL
+WE_PAK_111,B1_1,PAK,M,Sciences & Technology,ESL
+WE_PAK_112,B1_2,PAK,M,Social Sciences,ESL
+WE_PAK_113,B1_1,PAK,M,Sciences & Technology,ESL
+WE_PAK_114,B2_0,PAK,M,Sciences & Technology,ESL
+WE_PAK_115,B1_2,PAK,M,Sciences & Technology,ESL
+WE_PAK_116,B1_2,PAK,M,Sciences & Technology,ESL
+WE_PAK_117,B1_2,PAK,M,Sciences & Technology,ESL
+WE_PAK_118,B1_2,PAK,M,Sciences & Technology,ESL
+WE_PAK_119,A2_0,PAK,F,Social Sciences,ESL
+WE_PAK_120,B1_1,PAK,F,Social Sciences,ESL
+WE_PAK_121,B1_1,PAK,M,Sciences & Technology,ESL
+WE_PAK_122,B1_1,PAK,M,Sciences & Technology,ESL
+WE_PAK_123,B1_2,PAK,F,Humanities,ESL
+WE_PAK_124,B1_1,PAK,F,Humanities,ESL
+WE_PAK_125,B1_1,PAK,F,Social Sciences,ESL
+WE_PAK_128,B1_2,PAK,M,Sciences & Technology,ESL
+WE_PAK_129,B1_2,PAK,F,Social Sciences,ESL
+WE_PAK_131,B1_1,PAK,F,Social Sciences,ESL
+WE_PAK_132,A2_0,PAK,F,Sciences & Technology,ESL
+WE_PAK_133,B1_1,PAK,M,Social Sciences,ESL
+WE_PAK_134,B1_1,PAK,F,Humanities,ESL
+WE_PAK_136,B1_1,PAK,M,Sciences & Technology,ESL
+WE_PAK_137,B1_2,PAK,M,Sciences & Technology,ESL
+WE_PAK_140,B1_2,PAK,F,Humanities,ESL
+WE_PAK_141,B1_1,PAK,F,Social Sciences,ESL
+WE_PAK_143,B1_1,PAK,F,Social Sciences,ESL
+WE_PAK_144,B2_0,PAK,M,Sciences & Technology,ESL
+WE_PAK_145,B1_2,PAK,F,Humanities,ESL
+WE_PAK_146,B1_2,PAK,F,Sciences & Technology,ESL
+WE_PAK_147,B1_1,PAK,F,Sciences & Technology,ESL
+WE_PAK_148,B1_1,PAK,F,Humanities,ESL
+WE_PAK_150,B2_0,PAK,M,Sciences & Technology,ESL
+WE_PAK_151,B1_1,PAK,F,Social Sciences,ESL
+WE_PAK_154,B1_1,PAK,F,Humanities,ESL
+WE_PAK_157,B1_2,PAK,F,Sciences & Technology,ESL
+WE_PAK_158,B1_1,PAK,M,Social Sciences,ESL
+WE_PAK_159,B1_1,PAK,F,Sciences & Technology,ESL
+WE_PAK_160,B1_2,PAK,F,Social Sciences,ESL
+WE_PAK_165,B1_2,PAK,F,Sciences & Technology,ESL
+WE_PAK_166,B1_2,PAK,F,Social Sciences,ESL
+WE_PAK_170,B1_1,PAK,M,Social Sciences,ESL
+WE_PAK_172,B1_1,PAK,F,Humanities,ESL
+WE_PAK_174,B1_1,PAK,F,Sciences & Technology,ESL
+WE_PAK_176,A2_0,PAK,F,Social Sciences,ESL
+WE_PAK_179,B1_1,PAK,F,Humanities,ESL
+WE_PAK_184,B1_2,PAK,F,Sciences & Technology,ESL
+WE_PAK_185,B1_1,PAK,F,Social Sciences,ESL
+WE_PAK_186,B1_2,PAK,F,Social Sciences,ESL
+WE_PAK_187,B1_1,PAK,F,Social Sciences,ESL
+WE_PAK_189,B1_1,PAK,F,Humanities,ESL
+WE_PAK_190,B1_1,PAK,F,Social Sciences,ESL
+WE_PAK_192,B1_1,PAK,F,Humanities,ESL
+WE_PAK_194,B1_1,PAK,M,Humanities,ESL
+WE_PAK_196,B1_1,PAK,M,Humanities,ESL
+WE_PAK_197,A2_0,PAK,F,Social Sciences,ESL
+WE_PAK_200,B1_1,PAK,F,Humanities,ESL
+WE_PHL_001,B1_2,PHL,F,Sciences & Technology,ESL
+WE_PHL_003,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_004,B1_2,PHL,M,Sciences & Technology,ESL
+WE_PHL_005,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_006,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_007,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_008,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_009,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_010,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_011,B1_1,PHL,F,Humanities,ESL
+WE_PHL_012,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_013,B1_1,PHL,M,Social Sciences,ESL
+WE_PHL_014,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_015,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_016,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_017,B1_2,PHL,F,Sciences & Technology,ESL
+WE_PHL_018,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_019,B1_2,PHL,M,Sciences & Technology,ESL
+WE_PHL_020,B1_2,PHL,F,Sciences & Technology,ESL
+WE_PHL_021,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_023,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_024,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_025,B1_2,PHL,F,Sciences & Technology,ESL
+WE_PHL_027,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_028,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_029,B1_2,PHL,F,Humanities,ESL
+WE_PHL_030,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_031,B1_2,PHL,M,Sciences & Technology,ESL
+WE_PHL_032,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_033,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_034,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_035,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_036,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_037,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_038,B2_0,PHL,F,Sciences & Technology,ESL
+WE_PHL_039,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_041,B2_0,PHL,F,Social Sciences,ESL
+WE_PHL_042,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_043,B1_2,PHL,M,Sciences & Technology,ESL
+WE_PHL_044,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_045,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_046,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_048,B1_2,PHL,F,Sciences & Technology,ESL
+WE_PHL_049,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_050,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_051,B1_1,PHL,F,Social Sciences,ESL
+WE_PHL_052,B1_1,PHL,F,Social Sciences,ESL
+WE_PHL_053,B1_1,PHL,F,Social Sciences,ESL
+WE_PHL_054,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_055,B1_2,PHL,F,Humanities,ESL
+WE_PHL_056,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_057,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_058,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_059,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_060,B1_2,PHL,M,Sciences & Technology,ESL
+WE_PHL_061,B1_2,PHL,F,Sciences & Technology,ESL
+WE_PHL_062,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_063,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_064,B2_0,PHL,F,Social Sciences,ESL
+WE_PHL_065,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_066,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_067,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_068,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_069,B1_2,PHL,F,Humanities,ESL
+WE_PHL_070,B1_2,PHL,M,Sciences & Technology,ESL
+WE_PHL_071,B1_2,PHL,F,Humanities,ESL
+WE_PHL_072,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_073,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_074,B1_2,PHL,F,Sciences & Technology,ESL
+WE_PHL_075,B1_2,PHL,M,Humanities,ESL
+WE_PHL_076,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_077,B1_2,PHL,F,Humanities,ESL
+WE_PHL_078,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_079,B1_2,PHL,M,Sciences & Technology,ESL
+WE_PHL_080,B1_2,PHL,F,Humanities,ESL
+WE_PHL_081,B2_0,PHL,F,Sciences & Technology,ESL
+WE_PHL_082,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_083,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_084,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_085,B1_1,PHL,F,Social Sciences,ESL
+WE_PHL_086,B1_2,PHL,F,Sciences & Technology,ESL
+WE_PHL_087,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_088,B1_2,PHL,F,Sciences & Technology,ESL
+WE_PHL_089,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_090,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_091,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_092,B2_0,PHL,F,Social Sciences,ESL
+WE_PHL_093,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_094,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_095,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_096,B1_2,PHL,M,Sciences & Technology,ESL
+WE_PHL_097,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_098,B1_2,PHL,F,Humanities,ESL
+WE_PHL_099,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_100,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_101,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_102,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_103,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_104,B1_2,PHL,M,Sciences & Technology,ESL
+WE_PHL_105,B1_2,PHL,M,Sciences & Technology,ESL
+WE_PHL_106,B1_2,PHL,F,Sciences & Technology,ESL
+WE_PHL_107,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_108,B1_2,PHL,F,Humanities,ESL
+WE_PHL_109,B1_2,PHL,M,Humanities,ESL
+WE_PHL_110,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_111,B1_2,PHL,M,Sciences & Technology,ESL
+WE_PHL_112,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_113,B1_1,PHL,F,Humanities,ESL
+WE_PHL_114,B1_1,PHL,M,Social Sciences,ESL
+WE_PHL_115,B2_0,PHL,F,Social Sciences,ESL
+WE_PHL_116,B1_2,PHL,M,Humanities,ESL
+WE_PHL_117,B1_2,PHL,F,Humanities,ESL
+WE_PHL_118,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_119,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_120,B1_2,PHL,F,Sciences & Technology,ESL
+WE_PHL_121,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_122,B1_2,PHL,M,Sciences & Technology,ESL
+WE_PHL_123,B1_1,PHL,F,Humanities,ESL
+WE_PHL_124,B1_2,PHL,M,Humanities,ESL
+WE_PHL_125,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_127,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_128,B1_2,PHL,F,Sciences & Technology,ESL
+WE_PHL_129,B2_0,PHL,M,Social Sciences,ESL
+WE_PHL_130,B1_2,PHL,M,Sciences & Technology,ESL
+WE_PHL_131,B1_2,PHL,F,Sciences & Technology,ESL
+WE_PHL_132,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_133,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_135,B1_2,PHL,M,Sciences & Technology,ESL
+WE_PHL_136,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_137,B2_0,PHL,F,Sciences & Technology,ESL
+WE_PHL_138,B1_2,PHL,M,Sciences & Technology,ESL
+WE_PHL_139,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_140,B1_2,PHL,F,Sciences & Technology,ESL
+WE_PHL_141,B2_0,PHL,M,Social Sciences,ESL
+WE_PHL_142,B1_2,PHL,F,Sciences & Technology,ESL
+WE_PHL_143,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_144,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_145,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_146,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_147,B1_2,PHL,M,Sciences & Technology,ESL
+WE_PHL_148,B1_1,PHL,F,Social Sciences,ESL
+WE_PHL_149,B1_2,PHL,F,Humanities,ESL
+WE_PHL_150,B1_2,PHL,F,Humanities,ESL
+WE_PHL_151,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_152,B1_2,PHL,F,Sciences & Technology,ESL
+WE_PHL_153,B1_2,PHL,F,Sciences & Technology,ESL
+WE_PHL_154,B2_0,PHL,M,Social Sciences,ESL
+WE_PHL_155,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_156,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_157,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_158,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_159,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_160,B1_2,PHL,M,Sciences & Technology,ESL
+WE_PHL_161,A2_0,PHL,M,Social Sciences,ESL
+WE_PHL_162,B1_2,PHL,F,Sciences & Technology,ESL
+WE_PHL_163,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_164,B1_2,PHL,F,Humanities,ESL
+WE_PHL_165,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_166,B1_1,PHL,F,Social Sciences,ESL
+WE_PHL_167,B1_2,PHL,M,Sciences & Technology,ESL
+WE_PHL_168,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_169,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_170,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_171,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_172,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_173,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_174,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_175,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_176,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_177,B1_2,PHL,F,Humanities,ESL
+WE_PHL_178,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_179,B1_2,PHL,M,Sciences & Technology,ESL
+WE_PHL_181,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_182,B1_2,PHL,M,Sciences & Technology,ESL
+WE_PHL_183,B1_2,PHL,F,Humanities,ESL
+WE_PHL_184,B1_2,PHL,M,Sciences & Technology,ESL
+WE_PHL_185,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_186,B1_2,PHL,F,Humanities,ESL
+WE_PHL_187,B1_2,PHL,F,Sciences & Technology,ESL
+WE_PHL_188,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_189,B1_2,PHL,F,Sciences & Technology,ESL
+WE_PHL_190,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_191,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_192,B1_2,PHL,M,Sciences & Technology,ESL
+WE_PHL_193,B1_2,PHL,F,Sciences & Technology,ESL
+WE_PHL_194,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_195,B1_2,PHL,M,Sciences & Technology,ESL
+WE_PHL_196,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_197,B1_2,PHL,F,Social Sciences,ESL
+WE_PHL_198,B1_2,PHL,M,Social Sciences,ESL
+WE_PHL_199,B1_2,PHL,F,Sciences & Technology,ESL
+WE_PHL_200,B1_2,PHL,F,Sciences & Technology,ESL
+WE_SIN_001,B1_2,SIN,F,Humanities,ESL
+WE_SIN_002,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_003,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_004,B2_0,SIN,M,Sciences & Technology,ESL
+WE_SIN_005,B2_0,SIN,F,Life Sciences,ESL
+WE_SIN_006,B2_0,SIN,M,Humanities,ESL
+WE_SIN_007,B1_2,SIN,M,Sciences & Technology,ESL
+WE_SIN_008,B1_2,SIN,F,Humanities,ESL
+WE_SIN_009,B1_2,SIN,M,Humanities,ESL
+WE_SIN_010,B1_2,SIN,F,Humanities,ESL
+WE_SIN_011,B1_2,SIN,F,Humanities,ESL
+WE_SIN_012,B1_2,SIN,M,Sciences & Technology,ESL
+WE_SIN_013,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_014,B2_0,SIN,F,Social Sciences,ESL
+WE_SIN_015,B1_2,SIN,M,Social Sciences,ESL
+WE_SIN_016,B1_2,SIN,M,Sciences & Technology,ESL
+WE_SIN_017,B1_2,SIN,M,Sciences & Technology,ESL
+WE_SIN_018,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_019,B1_2,SIN,M,Sciences & Technology,ESL
+WE_SIN_020,B1_2,SIN,F,Life Sciences,ESL
+WE_SIN_021,B2_0,SIN,M,Social Sciences,ESL
+WE_SIN_022,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_023,B2_0,SIN,F,Humanities,ESL
+WE_SIN_024,B2_0,SIN,F,Social Sciences,ESL
+WE_SIN_025,B1_2,SIN,M,Humanities,ESL
+WE_SIN_026,B1_2,SIN,F,Sciences & Technology,ESL
+WE_SIN_027,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_028,B1_2,SIN,F,Humanities,ESL
+WE_SIN_029,B1_2,SIN,M,Social Sciences,ESL
+WE_SIN_030,B1_2,SIN,M,Social Sciences,ESL
+WE_SIN_031,B1_2,SIN,M,Humanities,ESL
+WE_SIN_032,B1_2,SIN,F,Humanities,ESL
+WE_SIN_033,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_034,B1_2,SIN,F,Humanities,ESL
+WE_SIN_035,B2_0,SIN,F,Humanities,ESL
+WE_SIN_036,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_037,B2_0,SIN,F,Social Sciences,ESL
+WE_SIN_038,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_039,B1_2,SIN,F,Humanities,ESL
+WE_SIN_040,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_041,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_042,B1_2,SIN,F,Sciences & Technology,ESL
+WE_SIN_043,B2_0,SIN,F,Humanities,ESL
+WE_SIN_044,B2_0,SIN,F,Humanities,ESL
+WE_SIN_045,B2_0,SIN,F,Life Sciences,ESL
+WE_SIN_046,B2_0,SIN,M,Life Sciences,ESL
+WE_SIN_047,B1_2,SIN,M,Sciences & Technology,ESL
+WE_SIN_048,B1_2,SIN,F,Humanities,ESL
+WE_SIN_049,B2_0,SIN,M,Social Sciences,ESL
+WE_SIN_050,B2_0,SIN,M,Social Sciences,ESL
+WE_SIN_051,B1_2,SIN,F,Life Sciences,ESL
+WE_SIN_052,B1_2,SIN,F,Sciences & Technology,ESL
+WE_SIN_053,B1_2,SIN,F,Humanities,ESL
+WE_SIN_054,B1_2,SIN,F,Humanities,ESL
+WE_SIN_055,B1_2,SIN,M,Sciences & Technology,ESL
+WE_SIN_056,B1_2,SIN,F,Humanities,ESL
+WE_SIN_057,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_058,B2_0,SIN,F,Humanities,ESL
+WE_SIN_059,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_060,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_061,B1_2,SIN,M,Humanities,ESL
+WE_SIN_062,B1_2,SIN,M,Sciences & Technology,ESL
+WE_SIN_063,B1_2,SIN,F,Sciences & Technology,ESL
+WE_SIN_064,B1_2,SIN,F,Humanities,ESL
+WE_SIN_065,B1_2,SIN,M,Social Sciences,ESL
+WE_SIN_066,B2_0,SIN,F,Sciences & Technology,ESL
+WE_SIN_067,B1_2,SIN,F,Humanities,ESL
+WE_SIN_068,B1_2,SIN,F,Sciences & Technology,ESL
+WE_SIN_069,B1_2,SIN,M,Sciences & Technology,ESL
+WE_SIN_070,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_071,B2_0,SIN,F,Social Sciences,ESL
+WE_SIN_072,B1_2,SIN,M,Social Sciences,ESL
+WE_SIN_073,B2_0,SIN,F,Humanities,ESL
+WE_SIN_074,B1_2,SIN,M,Social Sciences,ESL
+WE_SIN_075,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_076,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_077,B2_0,SIN,F,Social Sciences,ESL
+WE_SIN_078,B2_0,SIN,M,Sciences & Technology,ESL
+WE_SIN_079,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_080,B1_2,SIN,M,Social Sciences,ESL
+WE_SIN_081,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_082,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_083,B1_2,SIN,M,Sciences & Technology,ESL
+WE_SIN_084,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_085,B2_0,SIN,F,Life Sciences,ESL
+WE_SIN_086,B1_2,SIN,F,Humanities,ESL
+WE_SIN_087,B2_0,SIN,M,Social Sciences,ESL
+WE_SIN_088,B2_0,SIN,M,Sciences & Technology,ESL
+WE_SIN_089,B2_0,SIN,M,Sciences & Technology,ESL
+WE_SIN_090,B2_0,SIN,F,Sciences & Technology,ESL
+WE_SIN_091,B1_2,SIN,M,Sciences & Technology,ESL
+WE_SIN_092,B2_0,SIN,F,Social Sciences,ESL
+WE_SIN_093,B2_0,SIN,F,Sciences & Technology,ESL
+WE_SIN_094,B2_0,SIN,F,Humanities,ESL
+WE_SIN_095,B1_2,SIN,M,Sciences & Technology,ESL
+WE_SIN_096,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_097,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_098,B1_2,SIN,F,Humanities,ESL
+WE_SIN_099,B1_2,SIN,M,Social Sciences,ESL
+WE_SIN_100,B2_0,SIN,F,Life Sciences,ESL
+WE_SIN_101,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_102,B2_0,SIN,F,Social Sciences,ESL
+WE_SIN_103,B1_2,SIN,M,Sciences & Technology,ESL
+WE_SIN_104,B2_0,SIN,M,Humanities,ESL
+WE_SIN_105,B1_2,SIN,F,Humanities,ESL
+WE_SIN_106,B2_0,SIN,F,Sciences & Technology,ESL
+WE_SIN_107,B1_2,SIN,F,Life Sciences,ESL
+WE_SIN_108,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_109,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_110,B1_2,SIN,M,Life Sciences,ESL
+WE_SIN_111,B1_2,SIN,M,Humanities,ESL
+WE_SIN_112,B2_0,SIN,M,Humanities,ESL
+WE_SIN_113,B1_2,SIN,F,Humanities,ESL
+WE_SIN_114,B1_2,SIN,M,Social Sciences,ESL
+WE_SIN_115,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_116,B2_0,SIN,M,Social Sciences,ESL
+WE_SIN_117,B1_2,SIN,F,Humanities,ESL
+WE_SIN_118,B2_0,SIN,F,Humanities,ESL
+WE_SIN_119,B2_0,SIN,F,Social Sciences,ESL
+WE_SIN_120,B1_2,SIN,M,Sciences & Technology,ESL
+WE_SIN_121,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_122,B2_0,SIN,M,Social Sciences,ESL
+WE_SIN_123,B2_0,SIN,F,Sciences & Technology,ESL
+WE_SIN_124,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_125,B2_0,SIN,F,Life Sciences,ESL
+WE_SIN_126,B1_2,SIN,M,Social Sciences,ESL
+WE_SIN_127,B1_2,SIN,M,Sciences & Technology,ESL
+WE_SIN_128,B2_0,SIN,M,Sciences & Technology,ESL
+WE_SIN_129,B1_2,SIN,F,Life Sciences,ESL
+WE_SIN_130,B2_0,SIN,M,Social Sciences,ESL
+WE_SIN_131,B1_2,SIN,F,Sciences & Technology,ESL
+WE_SIN_132,B2_0,SIN,F,Sciences & Technology,ESL
+WE_SIN_133,B1_2,SIN,F,Sciences & Technology,ESL
+WE_SIN_134,B1_2,SIN,M,Social Sciences,ESL
+WE_SIN_135,B1_2,SIN,F,Sciences & Technology,ESL
+WE_SIN_136,B1_2,SIN,M,Sciences & Technology,ESL
+WE_SIN_137,B2_0,SIN,F,Sciences & Technology,ESL
+WE_SIN_138,B1_2,SIN,F,Life Sciences,ESL
+WE_SIN_139,B2_0,SIN,M,Life Sciences,ESL
+WE_SIN_140,B1_2,SIN,M,Sciences & Technology,ESL
+WE_SIN_141,B2_0,SIN,M,Sciences & Technology,ESL
+WE_SIN_142,B1_2,SIN,M,Sciences & Technology,ESL
+WE_SIN_143,B1_2,SIN,F,Humanities,ESL
+WE_SIN_144,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_145,B2_0,SIN,F,Humanities,ESL
+WE_SIN_146,B1_2,SIN,F,Humanities,ESL
+WE_SIN_147,B1_2,SIN,F,Humanities,ESL
+WE_SIN_148,B2_0,SIN,F,Social Sciences,ESL
+WE_SIN_149,B2_0,SIN,F,Life Sciences,ESL
+WE_SIN_150,B1_2,SIN,M,Sciences & Technology,ESL
+WE_SIN_151,B2_0,SIN,M,Humanities,ESL
+WE_SIN_152,B1_2,SIN,M,Social Sciences,ESL
+WE_SIN_153,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_154,B2_0,SIN,F,Life Sciences,ESL
+WE_SIN_155,B1_2,SIN,F,Humanities,ESL
+WE_SIN_156,B1_2,SIN,M,Sciences & Technology,ESL
+WE_SIN_157,B2_0,SIN,F,Social Sciences,ESL
+WE_SIN_158,B1_2,SIN,F,Humanities,ESL
+WE_SIN_159,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_160,B1_2,SIN,M,Sciences & Technology,ESL
+WE_SIN_161,B1_2,SIN,F,Humanities,ESL
+WE_SIN_162,B1_2,SIN,F,Sciences & Technology,ESL
+WE_SIN_163,B1_2,SIN,F,Humanities,ESL
+WE_SIN_164,B2_0,SIN,F,Social Sciences,ESL
+WE_SIN_165,B1_2,SIN,F,Humanities,ESL
+WE_SIN_166,B2_0,SIN,F,Humanities,ESL
+WE_SIN_167,B1_2,SIN,M,Humanities,ESL
+WE_SIN_168,B2_0,SIN,F,Social Sciences,ESL
+WE_SIN_169,B1_2,SIN,M,Sciences & Technology,ESL
+WE_SIN_170,B1_2,SIN,M,Social Sciences,ESL
+WE_SIN_171,B2_0,SIN,F,Social Sciences,ESL
+WE_SIN_172,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_173,B2_0,SIN,M,Social Sciences,ESL
+WE_SIN_174,B2_0,SIN,M,Social Sciences,ESL
+WE_SIN_175,B2_0,SIN,M,Social Sciences,ESL
+WE_SIN_176,B1_2,SIN,F,Sciences & Technology,ESL
+WE_SIN_177,B1_2,SIN,F,Humanities,ESL
+WE_SIN_178,B1_2,SIN,F,Sciences & Technology,ESL
+WE_SIN_179,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_180,B2_0,SIN,F,Social Sciences,ESL
+WE_SIN_181,B2_0,SIN,F,Life Sciences,ESL
+WE_SIN_182,B1_2,SIN,M,Social Sciences,ESL
+WE_SIN_183,B2_0,SIN,M,Sciences & Technology,ESL
+WE_SIN_184,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_185,B2_0,SIN,F,Social Sciences,ESL
+WE_SIN_186,B1_2,SIN,F,Humanities,ESL
+WE_SIN_187,B1_2,SIN,M,Life Sciences,ESL
+WE_SIN_188,B1_2,SIN,M,Sciences & Technology,ESL
+WE_SIN_189,B2_0,SIN,M,Humanities,ESL
+WE_SIN_190,B1_2,SIN,F,Humanities,ESL
+WE_SIN_191,B1_2,SIN,M,Social Sciences,ESL
+WE_SIN_192,B1_2,SIN,M,Life Sciences,ESL
+WE_SIN_193,B1_2,SIN,F,Humanities,ESL
+WE_SIN_194,B1_2,SIN,M,Sciences & Technology,ESL
+WE_SIN_195,B1_2,SIN,F,Social Sciences,ESL
+WE_SIN_196,B1_2,SIN,F,Sciences & Technology,ESL
+WE_SIN_197,B2_0,SIN,F,Social Sciences,ESL
+WE_SIN_198,B1_2,SIN,F,Life Sciences,ESL
+WE_SIN_199,B2_0,SIN,M,Sciences & Technology,ESL
+WE_SIN_200,B1_2,SIN,F,Sciences & Technology,ESL
+WE_THA_001,B1_2,THA,F,Sciences & Technology,EFL
+WE_THA_002,B1_2,THA,F,Social Sciences,EFL
+WE_THA_003,A2_0,THA,M,Sciences & Technology,EFL
+WE_THA_004,B1_2,THA,M,Sciences & Technology,EFL
+WE_THA_005,B1_2,THA,F,Sciences & Technology,EFL
+WE_THA_006,B1_2,THA,F,Humanities,EFL
+WE_THA_007,B1_2,THA,M,Sciences & Technology,EFL
+WE_THA_008,A2_0,THA,F,Social Sciences,EFL
+WE_THA_009,B1_1,THA,M,Humanities,EFL
+WE_THA_010,A2_0,THA,F,Social Sciences,EFL
+WE_THA_011,B1_2,THA,M,Sciences & Technology,EFL
+WE_THA_012,A2_0,THA,F,Social Sciences,EFL
+WE_THA_013,A2_0,THA,F,Humanities,EFL
+WE_THA_014,A2_0,THA,F,Social Sciences,EFL
+WE_THA_015,B1_2,THA,F,Life Sciences,EFL
+WE_THA_016,A2_0,THA,F,Social Sciences,EFL
+WE_THA_017,B1_1,THA,M,Humanities,EFL
+WE_THA_018,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_019,B1_2,THA,M,Sciences & Technology,EFL
+WE_THA_020,B1_1,THA,F,Sciences & Technology,EFL
+WE_THA_021,B1_1,THA,F,Humanities,EFL
+WE_THA_022,B2_0,THA,F,Life Sciences,EFL
+WE_THA_023,A2_0,THA,F,Sciences & Technology,EFL
+WE_THA_024,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_025,B1_1,THA,F,Life Sciences,EFL
+WE_THA_026,A2_0,THA,F,Social Sciences,EFL
+WE_THA_027,B1_2,THA,M,Sciences & Technology,EFL
+WE_THA_028,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_029,B1_2,THA,M,Sciences & Technology,EFL
+WE_THA_030,B1_1,THA,F,Life Sciences,EFL
+WE_THA_031,B1_2,THA,M,Social Sciences,EFL
+WE_THA_032,A2_0,THA,M,Social Sciences,EFL
+WE_THA_033,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_034,B1_2,THA,M,Sciences & Technology,EFL
+WE_THA_035,A2_0,THA,F,Social Sciences,EFL
+WE_THA_036,B1_1,THA,F,Sciences & Technology,EFL
+WE_THA_037,B1_2,THA,F,Social Sciences,EFL
+WE_THA_038,A2_0,THA,F,Social Sciences,EFL
+WE_THA_039,B1_1,THA,M,Social Sciences,EFL
+WE_THA_040,B1_2,THA,F,Sciences & Technology,EFL
+WE_THA_041,B1_1,THA,M,Social Sciences,EFL
+WE_THA_042,A2_0,THA,F,Humanities,EFL
+WE_THA_043,B1_1,THA,F,Life Sciences,EFL
+WE_THA_044,B1_2,THA,M,Sciences & Technology,EFL
+WE_THA_045,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_046,A2_0,THA,F,Social Sciences,EFL
+WE_THA_047,B1_1,THA,M,Humanities,EFL
+WE_THA_048,A2_0,THA,M,Social Sciences,EFL
+WE_THA_049,B1_2,THA,F,Humanities,EFL
+WE_THA_050,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_051,B1_2,THA,F,Sciences & Technology,EFL
+WE_THA_052,A2_0,THA,F,Social Sciences,EFL
+WE_THA_053,A2_0,THA,M,Life Sciences,EFL
+WE_THA_054,A2_0,THA,F,Social Sciences,EFL
+WE_THA_055,B1_1,THA,F,Social Sciences,EFL
+WE_THA_056,B1_1,THA,F,Humanities,EFL
+WE_THA_057,B1_2,THA,M,Sciences & Technology,EFL
+WE_THA_058,B1_2,THA,F,Sciences & Technology,EFL
+WE_THA_059,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_060,B1_1,THA,F,Humanities,EFL
+WE_THA_061,B1_1,THA,M,Humanities,EFL
+WE_THA_062,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_064,A2_0,THA,F,Social Sciences,EFL
+WE_THA_065,A2_0,THA,F,Social Sciences,EFL
+WE_THA_066,B1_2,THA,M,Sciences & Technology,EFL
+WE_THA_067,B1_1,THA,F,Social Sciences,EFL
+WE_THA_068,B1_1,THA,F,Life Sciences,EFL
+WE_THA_069,B1_1,THA,F,Humanities,EFL
+WE_THA_070,B1_2,THA,M,Humanities,EFL
+WE_THA_071,A2_0,THA,M,Social Sciences,EFL
+WE_THA_072,A2_0,THA,F,Sciences & Technology,EFL
+WE_THA_073,B1_2,THA,M,Sciences & Technology,EFL
+WE_THA_074,B1_1,THA,F,Sciences & Technology,EFL
+WE_THA_075,B1_1,THA,F,Humanities,EFL
+WE_THA_076,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_077,B1_2,THA,F,Sciences & Technology,EFL
+WE_THA_078,B1_1,THA,M,Humanities,EFL
+WE_THA_079,A2_0,THA,M,Social Sciences,EFL
+WE_THA_080,A2_0,THA,F,Social Sciences,EFL
+WE_THA_081,A2_0,THA,M,Social Sciences,EFL
+WE_THA_082,A2_0,THA,M,Social Sciences,EFL
+WE_THA_083,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_084,B1_2,THA,M,Sciences & Technology,EFL
+WE_THA_085,A2_0,THA,F,Social Sciences,EFL
+WE_THA_086,B1_2,THA,F,Humanities,EFL
+WE_THA_087,B1_2,THA,F,Sciences & Technology,EFL
+WE_THA_088,B1_2,THA,F,Sciences & Technology,EFL
+WE_THA_089,B1_1,THA,F,Social Sciences,EFL
+WE_THA_090,A2_0,THA,F,Social Sciences,EFL
+WE_THA_091,A2_0,THA,F,Social Sciences,EFL
+WE_THA_092,B1_2,THA,M,Humanities,EFL
+WE_THA_093,A2_0,THA,F,Social Sciences,EFL
+WE_THA_094,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_095,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_096,B1_2,THA,F,Sciences & Technology,EFL
+WE_THA_097,A2_0,THA,F,Social Sciences,EFL
+WE_THA_098,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_099,B1_1,THA,F,Life Sciences,EFL
+WE_THA_100,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_101,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_102,B1_1,THA,M,Life Sciences,EFL
+WE_THA_103,A2_0,THA,M,Sciences & Technology,EFL
+WE_THA_104,B1_1,THA,F,Social Sciences,EFL
+WE_THA_105,B1_1,THA,F,Humanities,EFL
+WE_THA_106,A2_0,THA,F,Life Sciences,EFL
+WE_THA_107,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_108,B1_2,THA,F,Sciences & Technology,EFL
+WE_THA_109,B1_1,THA,F,Humanities,EFL
+WE_THA_110,B1_2,THA,M,Sciences & Technology,EFL
+WE_THA_111,B1_1,THA,F,Sciences & Technology,EFL
+WE_THA_112,B1_1,THA,M,Life Sciences,EFL
+WE_THA_113,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_114,A2_0,THA,F,Life Sciences,EFL
+WE_THA_115,A2_0,THA,F,Humanities,EFL
+WE_THA_116,A2_0,THA,F,Social Sciences,EFL
+WE_THA_118,A2_0,THA,F,Humanities,EFL
+WE_THA_119,A2_0,THA,M,Social Sciences,EFL
+WE_THA_120,B1_2,THA,F,Life Sciences,EFL
+WE_THA_121,A2_0,THA,F,Humanities,EFL
+WE_THA_122,B1_1,THA,F,Humanities,EFL
+WE_THA_123,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_124,B1_1,THA,M,Humanities,EFL
+WE_THA_125,A2_0,THA,F,Social Sciences,EFL
+WE_THA_126,B1_1,THA,M,Humanities,EFL
+WE_THA_127,A2_0,THA,F,Social Sciences,EFL
+WE_THA_128,B1_1,THA,M,Humanities,EFL
+WE_THA_129,B1_1,THA,M,Humanities,EFL
+WE_THA_130,A2_0,THA,M,Social Sciences,EFL
+WE_THA_131,B1_1,THA,M,Humanities,EFL
+WE_THA_132,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_133,A2_0,THA,F,Social Sciences,EFL
+WE_THA_134,B1_1,THA,M,Humanities,EFL
+WE_THA_135,B1_2,THA,F,Life Sciences,EFL
+WE_THA_136,A2_0,THA,M,Social Sciences,EFL
+WE_THA_137,B1_2,THA,F,Humanities,EFL
+WE_THA_138,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_139,B1_1,THA,F,Social Sciences,EFL
+WE_THA_140,A2_0,THA,F,Social Sciences,EFL
+WE_THA_141,A2_0,THA,F,Social Sciences,EFL
+WE_THA_142,A2_0,THA,F,Sciences & Technology,EFL
+WE_THA_143,B1_1,THA,F,Humanities,EFL
+WE_THA_144,B1_2,THA,M,Sciences & Technology,EFL
+WE_THA_145,B1_1,THA,F,Sciences & Technology,EFL
+WE_THA_146,A2_0,THA,M,Humanities,EFL
+WE_THA_147,A2_0,THA,F,Social Sciences,EFL
+WE_THA_148,B1_1,THA,F,Social Sciences,EFL
+WE_THA_149,B1_1,THA,F,Humanities,EFL
+WE_THA_150,B1_1,THA,M,Humanities,EFL
+WE_THA_151,A2_0,THA,F,Humanities,EFL
+WE_THA_152,A2_0,THA,M,Social Sciences,EFL
+WE_THA_153,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_154,A2_0,THA,F,Social Sciences,EFL
+WE_THA_155,A2_0,THA,M,Social Sciences,EFL
+WE_THA_156,B1_2,THA,F,Sciences & Technology,EFL
+WE_THA_157,B1_2,THA,M,Sciences & Technology,EFL
+WE_THA_158,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_159,B1_1,THA,F,Humanities,EFL
+WE_THA_160,B1_1,THA,M,Social Sciences,EFL
+WE_THA_161,B1_2,THA,M,Sciences & Technology,EFL
+WE_THA_162,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_163,A2_0,THA,M,Social Sciences,EFL
+WE_THA_164,A2_0,THA,F,Social Sciences,EFL
+WE_THA_165,A2_0,THA,M,Sciences & Technology,EFL
+WE_THA_166,A2_0,THA,F,Humanities,EFL
+WE_THA_168,B1_1,THA,F,Humanities,EFL
+WE_THA_169,A2_0,THA,F,Humanities,EFL
+WE_THA_170,A2_0,THA,F,Social Sciences,EFL
+WE_THA_171,B1_2,THA,M,Sciences & Technology,EFL
+WE_THA_172,B1_2,THA,M,Humanities,EFL
+WE_THA_173,A2_0,THA,F,Sciences & Technology,EFL
+WE_THA_174,A2_0,THA,F,Social Sciences,EFL
+WE_THA_175,B1_1,THA,F,Humanities,EFL
+WE_THA_176,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_177,B1_1,THA,F,Social Sciences,EFL
+WE_THA_178,A2_0,THA,M,Social Sciences,EFL
+WE_THA_179,A2_0,THA,F,Social Sciences,EFL
+WE_THA_180,A2_0,THA,F,Social Sciences,EFL
+WE_THA_181,A2_0,THA,F,Social Sciences,EFL
+WE_THA_182,B1_1,THA,F,Sciences & Technology,EFL
+WE_THA_183,A2_0,THA,F,Humanities,EFL
+WE_THA_184,A2_0,THA,F,Life Sciences,EFL
+WE_THA_185,A2_0,THA,M,Social Sciences,EFL
+WE_THA_186,B1_1,THA,M,Social Sciences,EFL
+WE_THA_187,A2_0,THA,F,Humanities,EFL
+WE_THA_188,B1_2,THA,F,Humanities,EFL
+WE_THA_189,A2_0,THA,F,Humanities,EFL
+WE_THA_190,A2_0,THA,F,Humanities,EFL
+WE_THA_191,B1_1,THA,M,Humanities,EFL
+WE_THA_192,B1_2,THA,F,Social Sciences,EFL
+WE_THA_193,B1_2,THA,F,Social Sciences,EFL
+WE_THA_194,B1_2,THA,M,Sciences & Technology,EFL
+WE_THA_195,A2_0,THA,F,Social Sciences,EFL
+WE_THA_196,B1_2,THA,M,Humanities,EFL
+WE_THA_197,B1_1,THA,F,Humanities,EFL
+WE_THA_198,B1_1,THA,F,Social Sciences,EFL
+WE_THA_199,B1_1,THA,M,Humanities,EFL
+WE_THA_200,B1_1,THA,F,Sciences & Technology,EFL
+WE_THA_201,B1_2,THA,M,Sciences & Technology,EFL
+WE_THA_202,B1_2,THA,F,Life Sciences,EFL
+WE_THA_203,B1_1,THA,F,Humanities,EFL
+WE_THA_204,A2_0,THA,F,Sciences & Technology,EFL
+WE_THA_205,A2_0,THA,F,Sciences & Technology,EFL
+WE_THA_206,A2_0,THA,F,Sciences & Technology,EFL
+WE_THA_207,B1_2,THA,F,Life Sciences,EFL
+WE_THA_208,A2_0,THA,M,Humanities,EFL
+WE_THA_209,B1_1,THA,F,Sciences & Technology,EFL
+WE_THA_210,B1_1,THA,F,Life Sciences,EFL
+WE_THA_211,B1_1,THA,F,Humanities,EFL
+WE_THA_212,B1_1,THA,M,Humanities,EFL
+WE_THA_213,B1_1,THA,F,Humanities,EFL
+WE_THA_214,B1_1,THA,F,Humanities,EFL
+WE_THA_215,A2_0,THA,F,Humanities,EFL
+WE_THA_216,A2_0,THA,F,Humanities,EFL
+WE_THA_217,B1_2,THA,F,Life Sciences,EFL
+WE_THA_218,A2_0,THA,F,Humanities,EFL
+WE_THA_219,A2_0,THA,F,Humanities,EFL
+WE_THA_220,B1_1,THA,F,Sciences & Technology,EFL
+WE_THA_221,B1_1,THA,F,Life Sciences,EFL
+WE_THA_222,A2_0,THA,F,Life Sciences,EFL
+WE_THA_223,B1_2,THA,F,Social Sciences,EFL
+WE_THA_224,B1_2,THA,M,Humanities,EFL
+WE_THA_225,B1_2,THA,F,Life Sciences,EFL
+WE_THA_226,B1_2,THA,M,Humanities,EFL
+WE_THA_227,B1_1,THA,F,Humanities,EFL
+WE_THA_228,B1_2,THA,F,Humanities,EFL
+WE_THA_229,B1_2,THA,M,Humanities,EFL
+WE_THA_230,A2_0,THA,F,Humanities,EFL
+WE_THA_231,B1_1,THA,M,Social Sciences,EFL
+WE_THA_232,A2_0,THA,F,Social Sciences,EFL
+WE_THA_233,A2_0,THA,F,Humanities,EFL
+WE_THA_234,B1_2,THA,M,Social Sciences,EFL
+WE_THA_235,B1_2,THA,F,Life Sciences,EFL
+WE_THA_236,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_237,B1_2,THA,F,Life Sciences,EFL
+WE_THA_238,B1_1,THA,F,Social Sciences,EFL
+WE_THA_239,B1_2,THA,M,Humanities,EFL
+WE_THA_240,A2_0,THA,F,Humanities,EFL
+WE_THA_241,B1_1,THA,F,Humanities,EFL
+WE_THA_242,B1_1,THA,F,Life Sciences,EFL
+WE_THA_243,B1_1,THA,M,Life Sciences,EFL
+WE_THA_244,A2_0,THA,M,Sciences & Technology,EFL
+WE_THA_245,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_246,B1_1,THA,F,Humanities,EFL
+WE_THA_247,B1_1,THA,F,Humanities,EFL
+WE_THA_248,B1_1,THA,F,Humanities,EFL
+WE_THA_249,B1_2,THA,F,Humanities,EFL
+WE_THA_250,B1_1,THA,F,Humanities,EFL
+WE_THA_251,B1_1,THA,M,Humanities,EFL
+WE_THA_252,B1_1,THA,F,Humanities,EFL
+WE_THA_253,B1_1,THA,F,Life Sciences,EFL
+WE_THA_254,B1_1,THA,M,Humanities,EFL
+WE_THA_255,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_256,B1_1,THA,F,Sciences & Technology,EFL
+WE_THA_257,B1_2,THA,F,Sciences & Technology,EFL
+WE_THA_258,A2_0,THA,F,Social Sciences,EFL
+WE_THA_259,B1_1,THA,M,Humanities,EFL
+WE_THA_260,B2_0,THA,F,Sciences & Technology,EFL
+WE_THA_261,B1_1,THA,F,Humanities,EFL
+WE_THA_262,A2_0,THA,F,Life Sciences,EFL
+WE_THA_263,B1_2,THA,F,Sciences & Technology,EFL
+WE_THA_264,A2_0,THA,F,Sciences & Technology,EFL
+WE_THA_265,A2_0,THA,M,Sciences & Technology,EFL
+WE_THA_266,B1_2,THA,F,Humanities,EFL
+WE_THA_267,B1_1,THA,F,Sciences & Technology,EFL
+WE_THA_268,B1_2,THA,F,Life Sciences,EFL
+WE_THA_269,B1_1,THA,M,Humanities,EFL
+WE_THA_270,B1_2,THA,M,Life Sciences,EFL
+WE_THA_271,B1_1,THA,M,Humanities,EFL
+WE_THA_272,A2_0,THA,M,Humanities,EFL
+WE_THA_273,B1_1,THA,F,Humanities,EFL
+WE_THA_274,B1_1,THA,F,Humanities,EFL
+WE_THA_275,B1_2,THA,M,Humanities,EFL
+WE_THA_276,B1_1,THA,F,Humanities,EFL
+WE_THA_277,B1_1,THA,F,Social Sciences,EFL
+WE_THA_278,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_279,B1_1,THA,F,Humanities,EFL
+WE_THA_280,A2_0,THA,F,Humanities,EFL
+WE_THA_281,B1_1,THA,F,Humanities,EFL
+WE_THA_282,B1_1,THA,F,Sciences & Technology,EFL
+WE_THA_283,B1_1,THA,F,Sciences & Technology,EFL
+WE_THA_284,B1_1,THA,F,Humanities,EFL
+WE_THA_285,B1_2,THA,F,Humanities,EFL
+WE_THA_286,B1_1,THA,F,Humanities,EFL
+WE_THA_287,A2_0,THA,M,Humanities,EFL
+WE_THA_288,B1_1,THA,F,Life Sciences,EFL
+WE_THA_289,B1_1,THA,F,Social Sciences,EFL
+WE_THA_290,B1_1,THA,M,Humanities,EFL
+WE_THA_291,B1_2,THA,F,Life Sciences,EFL
+WE_THA_292,B1_1,THA,M,Sciences & Technology,EFL
+WE_THA_293,B1_2,THA,F,Humanities,EFL
+WE_THA_294,A2_0,THA,F,Social Sciences,EFL
+WE_THA_295,B1_2,THA,M,Humanities,EFL
+WE_THA_296,B1_1,THA,F,Sciences & Technology,EFL
+WE_THA_297,B1_1,THA,M,Humanities,EFL
+WE_THA_298,B1_1,THA,F,Humanities,EFL
+WE_THA_299,B1_2,THA,M,Sciences & Technology,EFL
+WE_THA_300,A2_0,THA,M,Humanities,EFL
+WE_THA_301,B1_2,THA,M,Humanities,EFL
+WE_THA_302,B1_1,THA,F,Humanities,EFL
+WE_THA_303,B1_1,THA,F,Humanities,EFL
+WE_THA_304,B1_2,THA,M,Humanities,EFL
+WE_THA_305,A2_0,THA,F,Sciences & Technology,EFL
+WE_THA_306,B1_2,THA,M,Humanities,EFL
+WE_THA_307,B1_1,THA,F,Humanities,EFL
+WE_THA_308,B1_1,THA,F,Humanities,EFL
+WE_THA_309,B1_1,THA,F,Sciences & Technology,EFL
+WE_THA_310,B1_1,THA,F,Humanities,EFL
+WE_THA_312,B1_1,THA,F,Sciences & Technology,EFL
+WE_THA_313,B1_1,THA,F,Humanities,EFL
+WE_THA_314,A2_0,THA,F,Humanities,EFL
+WE_THA_315,B1_1,THA,F,Humanities,EFL
+WE_THA_316,B1_1,THA,F,Social Sciences,EFL
+WE_THA_317,A2_0,THA,F,Social Sciences,EFL
+WE_THA_318,A2_0,THA,F,Life Sciences,EFL
+WE_THA_319,B1_1,THA,F,Humanities,EFL
+WE_THA_320,B1_1,THA,F,Humanities,EFL
+WE_THA_321,B1_2,THA,F,Life Sciences,EFL
+WE_THA_322,B1_1,THA,F,Life Sciences,EFL
+WE_THA_323,B1_1,THA,M,Humanities,EFL
+WE_THA_324,A2_0,THA,F,Life Sciences,EFL
+WE_THA_325,B1_1,THA,F,Humanities,EFL
+WE_THA_326,A2_0,THA,F,Social Sciences,EFL
+WE_THA_327,B1_2,THA,F,Life Sciences,EFL
+WE_THA_328,B1_2,THA,F,Life Sciences,EFL
+WE_THA_329,B1_1,THA,M,Life Sciences,EFL
+WE_THA_330,B1_2,THA,F,Sciences & Technology,EFL
+WE_THA_331,B1_1,THA,F,Life Sciences,EFL
+WE_THA_332,B1_1,THA,F,Sciences & Technology,EFL
+WE_THA_333,B1_1,THA,F,Humanities,EFL
+WE_THA_334,B1_1,THA,F,Life Sciences,EFL
+WE_THA_335,A2_0,THA,F,Life Sciences,EFL
+WE_THA_336,A2_0,THA,F,Humanities,EFL
+WE_THA_337,A2_0,THA,F,Sciences & Technology,EFL
+WE_THA_338,B1_1,THA,F,Humanities,EFL
+WE_THA_339,B1_1,THA,F,Sciences & Technology,EFL
+WE_THA_340,B1_2,THA,F,Sciences & Technology,EFL
+WE_THA_341,A2_0,THA,F,Life Sciences,EFL
+WE_THA_342,A2_0,THA,M,Social Sciences,EFL
+WE_THA_343,B1_1,THA,F,Humanities,EFL
+WE_THA_344,A2_0,THA,F,Sciences & Technology,EFL
+WE_THA_345,B1_2,THA,M,Sciences & Technology,EFL
+WE_THA_346,B1_1,THA,F,Life Sciences,EFL
+WE_THA_347,B1_1,THA,F,Humanities,EFL
+WE_THA_348,B1_1,THA,F,Humanities,EFL
+WE_THA_349,A2_0,THA,M,Humanities,EFL
+WE_THA_350,B1_1,THA,F,Humanities,EFL
+WE_THA_351,B1_2,THA,F,Humanities,EFL
+WE_THA_352,B1_1,THA,F,Humanities,EFL
+WE_THA_353,B1_2,THA,F,Humanities,EFL
+WE_THA_354,B1_1,THA,F,Life Sciences,EFL
+WE_THA_355,B1_1,THA,F,Humanities,EFL
+WE_THA_356,A2_0,THA,F,Humanities,EFL
+WE_THA_357,B1_2,THA,F,Humanities,EFL
+WE_THA_358,A2_0,THA,M,Humanities,EFL
+WE_THA_359,A2_0,THA,F,Humanities,EFL
+WE_THA_360,B1_2,THA,F,Humanities,EFL
+WE_THA_361,B1_1,THA,F,Humanities,EFL
+WE_THA_362,B1_2,THA,F,Life Sciences,EFL
+WE_THA_363,B1_1,THA,M,Humanities,EFL
+WE_THA_364,A2_0,THA,F,Life Sciences,EFL
+WE_THA_365,A2_0,THA,M,Humanities,EFL
+WE_THA_366,B1_1,THA,F,Humanities,EFL
+WE_THA_367,B1_2,THA,F,Life Sciences,EFL
+WE_THA_368,B1_1,THA,M,Social Sciences,EFL
+WE_THA_369,B1_2,THA,M,Social Sciences,EFL
+WE_THA_370,B1_2,THA,M,Humanities,EFL
+WE_THA_371,A2_0,THA,M,Humanities,EFL
+WE_THA_372,B1_1,THA,F,Humanities,EFL
+WE_THA_373,B1_1,THA,F,Social Sciences,EFL
+WE_THA_374,A2_0,THA,F,Sciences & Technology,EFL
+WE_THA_375,B1_1,THA,M,Humanities,EFL
+WE_THA_376,B1_2,THA,F,Humanities,EFL
+WE_THA_377,B1_1,THA,F,Humanities,EFL
+WE_THA_378,A2_0,THA,M,Sciences & Technology,EFL
+WE_THA_379,B1_2,THA,F,Life Sciences,EFL
+WE_THA_380,B1_2,THA,F,Sciences & Technology,EFL
+WE_THA_381,B1_1,THA,M,Humanities,EFL
+WE_THA_382,B1_2,THA,F,Humanities,EFL
+WE_THA_383,B1_1,THA,M,Humanities,EFL
+WE_THA_384,B1_1,THA,F,Humanities,EFL
+WE_THA_385,B1_1,THA,F,Sciences & Technology,EFL
+WE_THA_386,B1_2,THA,F,Sciences & Technology,EFL
+WE_THA_387,B1_2,THA,F,Sciences & Technology,EFL
+WE_THA_388,B1_2,THA,M,Social Sciences,EFL
+WE_THA_389,B1_1,THA,M,Humanities,EFL
+WE_THA_390,B1_2,THA,F,Humanities,EFL
+WE_THA_391,B1_1,THA,F,Life Sciences,EFL
+WE_THA_392,B1_1,THA,M,Humanities,EFL
+WE_THA_393,B1_2,THA,M,Social Sciences,EFL
+WE_THA_394,B1_1,THA,F,Social Sciences,EFL
+WE_THA_395,B1_1,THA,M,Humanities,EFL
+WE_THA_396,B1_1,THA,M,Humanities,EFL
+WE_THA_397,B1_2,THA,F,Sciences & Technology,EFL
+WE_THA_398,B1_1,THA,M,Life Sciences,EFL
+WE_THA_399,A2_0,THA,F,Sciences & Technology,EFL
+WE_THA_400,B1_1,THA,F,Social Sciences,EFL
+WE_TWEN_001,B1_2,TWN,F,Social Sciences,EFL
+WE_TWEN_002,B1_1,TWN,F,Humanities,EFL
+WE_TWEN_003,B1_1,TWN,F,Humanities,EFL
+WE_TWEN_004,B1_1,TWN,M,Social Sciences,EFL
+WE_TWEN_005,B1_2,TWN,M,Humanities,EFL
+WE_TWEN_006,A2_0,TWN,F,Sciences & Technology,EFL
+WE_TWEN_007,B2_0,TWN,F,Social Sciences,EFL
+WE_TWEN_008,B1_1,TWN,M,Humanities,EFL
+WE_TWEN_009,B1_1,TWN,M,Humanities,EFL
+WE_TWEN_010,A2_0,TWN,F,Social Sciences,EFL
+WE_TWEN_011,B1_2,TWN,F,Social Sciences,EFL
+WE_TWEN_012,B2_0,TWN,M,Sciences & Technology,EFL
+WE_TWEN_013,A2_0,TWN,F,Social Sciences,EFL
+WE_TWEN_014,B1_2,TWN,F,Sciences & Technology,EFL
+WE_TWEN_015,A2_0,TWN,M,Humanities,EFL
+WE_TWEN_016,A2_0,TWN,M,Social Sciences,EFL
+WE_TWEN_017,B1_1,TWN,F,Sciences & Technology,EFL
+WE_TWEN_018,B1_1,TWN,F,Life Sciences,EFL
+WE_TWEN_019,B1_2,TWN,F,Humanities,EFL
+WE_TWEN_020,B1_2,TWN,F,Humanities,EFL
+WE_TWEN_021,B1_2,TWN,M,Social Sciences,EFL
+WE_TWEN_022,A2_0,TWN,M,Sciences & Technology,EFL
+WE_TWEN_023,B1_2,TWN,F,Social Sciences,EFL
+WE_TWEN_024,B1_2,TWN,F,Sciences & Technology,EFL
+WE_TWEN_025,B1_1,TWN,F,Humanities,EFL
+WE_TWEN_026,B1_1,TWN,F,Humanities,EFL
+WE_TWEN_027,B1_1,TWN,F,Sciences & Technology,EFL
+WE_TWEN_028,B1_2,TWN,F,Sciences & Technology,EFL
+WE_TWEN_029,B1_2,TWN,M,Sciences & Technology,EFL
+WE_TWEN_030,B1_1,TWN,F,Humanities,EFL
+WE_TWEN_031,B1_2,TWN,M,Humanities,EFL
+WE_TWEN_032,B1_2,TWN,F,Social Sciences,EFL
+WE_TWEN_033,B1_1,TWN,F,Social Sciences,EFL
+WE_TWEN_034,B1_1,TWN,M,Life Sciences,EFL
+WE_TWEN_035,B1_1,TWN,M,Sciences & Technology,EFL
+WE_TWEN_036,B1_1,TWN,F,Humanities,EFL
+WE_TWEN_037,A2_0,TWN,M,Humanities,EFL
+WE_TWEN_038,B1_1,TWN,F,Humanities,EFL
+WE_TWEN_039,A2_0,TWN,M,Sciences & Technology,EFL
+WE_TWEN_040,A2_0,TWN,F,Social Sciences,EFL
+WE_TWEN_041,A2_0,TWN,F,Sciences & Technology,EFL
+WE_TWEN_042,B1_2,TWN,F,Sciences & Technology,EFL
+WE_TWEN_043,B1_1,TWN,F,Social Sciences,EFL
+WE_TWEN_044,B1_1,TWN,F,Humanities,EFL
+WE_TWEN_045,B1_1,TWN,F,Humanities,EFL
+WE_TWEN_046,B1_1,TWN,F,Life Sciences,EFL
+WE_TWEN_047,A2_0,TWN,F,Humanities,EFL
+WE_TWEN_048,B2_0,TWN,F,Social Sciences,EFL
+WE_TWEN_049,B1_2,TWN,F,Social Sciences,EFL
+WE_TWEN_050,B1_1,TWN,F,Social Sciences,EFL
+WE_TWEN_051,B1_2,TWN,M,Social Sciences,EFL
+WE_TWEN_052,B1_1,TWN,M,Humanities,EFL
+WE_TWEN_053,B1_2,TWN,M,Social Sciences,EFL
+WE_TWEN_054,B1_1,TWN,F,Humanities,EFL
+WE_TWEN_055,B1_1,TWN,M,Humanities,EFL
+WE_TWEN_056,B1_2,TWN,F,Humanities,EFL
+WE_TWEN_057,B2_0,TWN,F,Humanities,EFL
+WE_TWEN_058,B1_1,TWN,M,Humanities,EFL
+WE_TWEN_059,B1_1,TWN,F,Sciences & Technology,EFL
+WE_TWEN_060,B1_2,TWN,F,Humanities,EFL
+WE_TWEN_061,B1_1,TWN,F,Social Sciences,EFL
+WE_TWEN_062,B1_1,TWN,F,Sciences & Technology,EFL
+WE_TWEN_063,B1_2,TWN,M,Humanities,EFL
+WE_TWEN_064,B1_1,TWN,M,Sciences & Technology,EFL
+WE_TWEN_065,B1_1,TWN,F,Humanities,EFL
+WE_TWEN_066,B1_2,TWN,F,Sciences & Technology,EFL
+WE_TWEN_067,A2_0,TWN,F,Sciences & Technology,EFL
+WE_TWEN_068,B2_0,TWN,F,Social Sciences,EFL
+WE_TWEN_069,B2_0,TWN,F,Social Sciences,EFL
+WE_TWEN_070,A2_0,TWN,F,Humanities,EFL
+WE_TWEN_071,B1_1,TWN,F,Social Sciences,EFL
+WE_TWEN_072,B1_2,TWN,F,Humanities,EFL
+WE_TWEN_073,A2_0,TWN,F,Humanities,EFL
+WE_TWEN_074,B1_1,TWN,F,Social Sciences,EFL
+WE_TWEN_075,A2_0,TWN,F,Humanities,EFL
+WE_TWEN_076,B1_2,TWN,M,Humanities,EFL
+WE_TWEN_077,B2_0,TWN,F,Humanities,EFL
+WE_TWEN_078,B1_2,TWN,F,Social Sciences,EFL
+WE_TWEN_079,B1_1,TWN,F,Humanities,EFL
+WE_TWEN_080,B1_2,TWN,F,Life Sciences,EFL
+WE_TWEN_081,B1_2,TWN,F,Social Sciences,EFL
+WE_TWEN_082,B1_1,TWN,F,Social Sciences,EFL
+WE_TWEN_083,B1_2,TWN,F,Life Sciences,EFL
+WE_TWEN_084,B1_2,TWN,M,Life Sciences,EFL
+WE_TWEN_085,B1_2,TWN,M,Humanities,EFL
+WE_TWEN_086,B2_0,TWN,F,Social Sciences,EFL
+WE_TWEN_087,B1_1,TWN,M,Humanities,EFL
+WE_TWEN_088,B2_0,TWN,F,Humanities,EFL
+WE_TWEN_089,B1_2,TWN,F,Sciences & Technology,EFL
+WE_TWEN_090,B1_1,TWN,F,Sciences & Technology,EFL
+WE_TWEN_091,B1_1,TWN,F,Humanities,EFL
+WE_TWEN_092,B1_1,TWN,F,Humanities,EFL
+WE_TWEN_093,A2_0,TWN,M,Sciences & Technology,EFL
+WE_TWEN_094,B1_2,TWN,F,Humanities,EFL
+WE_TWEN_095,B2_0,TWN,F,Social Sciences,EFL
+WE_TWEN_096,B1_1,TWN,F,Sciences & Technology,EFL
+WE_TWEN_097,B1_2,TWN,F,Sciences & Technology,EFL
+WE_TWEN_098,B1_2,TWN,F,Social Sciences,EFL
+WE_TWEN_099,B1_2,TWN,M,Life Sciences,EFL
+WE_TWEN_100,B1_2,TWN,F,Humanities,EFL
+WE_TWEN_101,B1_1,TWN,M,Social Sciences,EFL
+WE_TWEN_102,B1_1,TWN,F,Sciences & Technology,EFL
+WE_TWEN_103,A2_0,TWN,F,Social Sciences,EFL
+WE_TWEN_104,B1_1,TWN,F,Humanities,EFL
+WE_TWEN_105,A2_0,TWN,F,Social Sciences,EFL
+WE_TWEN_106,B1_2,TWN,F,Social Sciences,EFL
+WE_TWEN_107,A2_0,TWN,F,Sciences & Technology,EFL
+WE_TWEN_108,B2_0,TWN,M,Social Sciences,EFL
+WE_TWEN_109,B1_1,TWN,M,Sciences & Technology,EFL
+WE_TWEN_110,B2_0,TWN,F,Humanities,EFL
+WE_TWEN_111,B1_1,TWN,M,Sciences & Technology,EFL
+WE_TWEN_112,B1_1,TWN,F,Humanities,EFL
+WE_TWEN_113,B1_1,TWN,F,Life Sciences,EFL
+WE_TWEN_114,B1_1,TWN,F,Social Sciences,EFL
+WE_TWEN_115,B1_2,TWN,F,Humanities,EFL
+WE_TWEN_116,B1_1,TWN,F,Social Sciences,EFL
+WE_TWEN_117,B1_1,TWN,F,Humanities,EFL
+WE_TWEN_118,B2_0,TWN,F,Social Sciences,EFL
+WE_TWEN_119,B2_0,TWN,F,Social Sciences,EFL
+WE_TWEN_120,B2_0,TWN,F,Humanities,EFL
+WE_TWEN_121,B1_2,TWN,M,Life Sciences,EFL
+WE_TWEN_122,B1_1,TWN,F,Sciences & Technology,EFL
+WE_TWEN_123,B1_2,TWN,F,Humanities,EFL
+WE_TWEN_124,B2_0,TWN,M,Social Sciences,EFL
+WE_TWEN_125,B1_1,TWN,F,Humanities,EFL
+WE_TWEN_126,A2_0,TWN,M,Sciences & Technology,EFL
+WE_TWEN_127,B1_2,TWN,F,Sciences & Technology,EFL
+WE_TWEN_128,B1_1,TWN,M,Humanities,EFL
+WE_TWEN_129,B1_1,TWN,M,Sciences & Technology,EFL
+WE_TWEN_130,B1_2,TWN,F,Humanities,EFL
+WE_TWEN_131,A2_0,TWN,F,Humanities,EFL
+WE_TWEN_132,B1_1,TWN,F,Life Sciences,EFL
+WE_TWEN_133,B2_0,TWN,F,Humanities,EFL
+WE_TWEN_134,B1_2,TWN,F,Sciences & Technology,EFL
+WE_TWEN_135,B1_1,TWN,M,Sciences & Technology,EFL
+WE_TWEN_136,A2_0,TWN,F,Humanities,EFL
+WE_TWEN_137,B1_2,TWN,M,Social Sciences,EFL
+WE_TWEN_138,B1_1,TWN,F,Social Sciences,EFL
+WE_TWEN_139,B1_2,TWN,F,Sciences & Technology,EFL
+WE_TWEN_140,B1_1,TWN,F,Humanities,EFL
+WE_TWEN_141,B1_2,TWN,F,Humanities,EFL
+WE_TWEN_142,A2_0,TWN,M,Sciences & Technology,EFL
+WE_TWEN_143,B1_2,TWN,F,Social Sciences,EFL
+WE_TWEN_144,B1_1,TWN,F,Social Sciences,EFL
+WE_TWEN_145,B1_2,TWN,F,Sciences & Technology,EFL
+WE_TWEN_146,B1_1,TWN,F,Social Sciences,EFL
+WE_TWEN_147,B1_1,TWN,F,Social Sciences,EFL
+WE_TWEN_148,B1_2,TWN,F,Humanities,EFL
+WE_TWEN_149,B1_1,TWN,M,Social Sciences,EFL
+WE_TWEN_150,B1_2,TWN,F,Social Sciences,EFL
+WE_TWEN_151,B1_1,TWN,F,Sciences & Technology,EFL
+WE_TWEN_152,B1_2,TWN,F,Humanities,EFL
+WE_TWEN_153,B1_1,TWN,M,Social Sciences,EFL
+WE_TWEN_154,B2_0,TWN,F,Humanities,EFL
+WE_TWEN_155,B1_1,TWN,F,Sciences & Technology,EFL
+WE_TWEN_156,B1_1,TWN,F,Social Sciences,EFL
+WE_TWEN_157,B1_1,TWN,F,Sciences & Technology,EFL
+WE_TWEN_158,B1_1,TWN,F,Humanities,EFL
+WE_TWEN_159,B1_1,TWN,F,Humanities,EFL
+WE_TWEN_160,B1_2,TWN,F,Sciences & Technology,EFL
+WE_TWEN_161,B1_1,TWN,M,Sciences & Technology,EFL
+WE_TWEN_162,B1_2,TWN,F,Social Sciences,EFL
+WE_TWEN_163,B1_1,TWN,F,Social Sciences,EFL
+WE_TWEN_164,B1_2,TWN,F,Social Sciences,EFL
+WE_TWEN_165,B1_1,TWN,F,Humanities,EFL
+WE_TWEN_166,B2_0,TWN,F,Social Sciences,EFL
+WE_TWEN_167,B1_2,TWN,F,Humanities,EFL
+WE_TWEN_168,B2_0,TWN,F,Humanities,EFL
+WE_TWEN_169,B2_0,TWN,F,Social Sciences,EFL
+WE_TWEN_170,A2_0,TWN,M,Humanities,EFL
+WE_TWEN_171,B1_1,TWN,F,Humanities,EFL
+WE_TWEN_172,B1_1,TWN,F,Social Sciences,EFL
+WE_TWEN_173,B1_2,TWN,F,Social Sciences,EFL
+WE_TWEN_174,A2_0,TWN,M,Social Sciences,EFL
+WE_TWEN_175,B1_1,TWN,M,Humanities,EFL
+WE_TWEN_176,B1_1,TWN,F,Sciences & Technology,EFL
+WE_TWEN_177,B1_1,TWN,F,Social Sciences,EFL
+WE_TWEN_178,A2_0,TWN,F,Social Sciences,EFL
+WE_TWEN_179,A2_0,TWN,M,Social Sciences,EFL
+WE_TWEN_180,B2_0,TWN,F,Social Sciences,EFL
+WE_TWEN_181,B1_1,TWN,F,Humanities,EFL
+WE_TWEN_182,B1_1,TWN,F,Sciences & Technology,EFL
+WE_TWEN_183,B1_1,TWN,F,Life Sciences,EFL
+WE_TWEN_184,B1_2,TWN,F,Social Sciences,EFL
+WE_TWEN_185,B1_2,TWN,M,Humanities,EFL
+WE_TWEN_186,B1_1,TWN,M,Sciences & Technology,EFL
+WE_TWEN_187,B1_2,TWN,F,Humanities,EFL
+WE_TWEN_188,B1_1,TWN,F,Sciences & Technology,EFL
+WE_TWEN_189,B1_1,TWN,M,Social Sciences,EFL
+WE_TWEN_190,A2_0,TWN,F,Social Sciences,EFL
+WE_TWEN_191,B1_2,TWN,F,Humanities,EFL
+WE_TWEN_192,B1_1,TWN,F,Humanities,EFL
+WE_TWEN_193,B2_0,TWN,F,Social Sciences,EFL
+WE_TWEN_194,A2_0,TWN,F,Humanities,EFL
+WE_TWEN_195,B1_1,TWN,F,Sciences & Technology,EFL
+WE_TWEN_196,B1_1,TWN,M,Sciences & Technology,EFL
+WE_TWEN_197,B1_1,TWN,F,Sciences & Technology,EFL
+WE_TWEN_198,B1_2,TWN,F,Social Sciences,EFL
+WE_TWEN_199,B1_2,TWN,F,Humanities,EFL
+WE_TWEN_200,B1_1,TWN,F,Sciences & Technology,EFL
