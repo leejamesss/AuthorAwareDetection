@@ -29,7 +29,7 @@ We employ 12 diverse LLMs to generate parallel texts that mirror the demographic
 
 ## Data Access
 
-### 1. AI-Generated Data
+### 1. AI-Generated Data Only
 
 We host the **AI-generated portion** of the benchmark directly on Hugging Face. You can load it easily via:
 
@@ -40,7 +40,7 @@ from datasets import load_dataset
 dataset = load_dataset("leejamesssss/AuthorAwareDetectionBench", split="train")
 ```
 
-### 2. Full Benchmark
+### 2. Full Benchmark Reproduction (Human + AI)
 
 Due to the **ICNALE Terms of Use**, we cannot distribute the original human texts. To reproduce the full benchmark, please follow these steps:
 
