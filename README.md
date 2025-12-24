@@ -63,7 +63,7 @@ Use the provided script to align human texts with metadata and merge them with o
 
 ```bash
 python scripts/merge_data.py \
-  --human_input_dir "/path/to/your/ICNALE/WE_0_Unclassified_Unmerged" \
+  --human_input_dir "/path/to/your/ICNALE_WE_2.6/WE_0_Unclassified_Unmerged" \
   --metadata_file "data/metadata/human_metadata.csv" \
   --ai_file "/path/to/downloaded/ai_generated_dataset.jsonl" \
   --output "authoraware_benchmark.jsonl"
