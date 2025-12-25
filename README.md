@@ -48,7 +48,7 @@ Due to the **ICNALE Terms of Use**, we cannot distribute the original human text
 
 1. **Download Human Data:** Obtain the **[ICNALE Written English Corpus](http://language.sakura.ne.jp/icnale/download.html)** (specifically the Written Essays (WE) v2.6 module's `WE_0_Unclassified_Unmerged` folder) from the official website. 
 
-2. **Download AI Data:** Download the `ai_generated_dataset.jsonl` from the [Files and versions](https://huggingface.co/datasets/leejamesssss/AuthorAwareDetectionBench/tree/main) tab of this repository.
+2. **Download AI Data:** Download the `ai_generated_dataset.jsonl` from our [huggingface repo](https://huggingface.co/datasets/leejamesssss/AuthorAwareDetectionBench/tree/main).
 
 3. **Clone Our Repository:** Get the processing scripts and metadata:
 
